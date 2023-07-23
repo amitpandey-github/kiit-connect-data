@@ -1,0 +1,54 @@
+[
+  {
+    "subject": "Data Structures and Algorithms",
+    "data": [
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Data Structures and Algorithms Notes",
+        "id": "1KMDjN4vouRLyPAwyr9088Ewoxg4V26BI",
+        "solution": null
+      }
+    ]
+  },
+  {
+    "subject": "Digital Electronics",
+    "data": [
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Digital Electronics Notes",
+        "id": "19GMCy9CzLXGDtFzuIVvqVDgXm6tW-zvS",
+        "solution": null
+      }
+    ]
+  },
+  {
+    "subject": "Object Oriented Programming",
+    "data": [
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Object Oriented Programming Slides",
+        "id": "1fXekL6BVMBr--H4r6AdMwLqmgcYaPC1l",
+        "solution": null
+      }
+    ]
+  },
+  {
+    "subject": "Probability and Statistics",
+    "data": [
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Probability and Statistics Notes",
+        "id": "1dKee4g06ImQntGhoaJKIFTl9jNYCwRqr",
+        "solution": null
+      }
+    ]
+  }
+]

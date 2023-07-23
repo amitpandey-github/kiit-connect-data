@@ -1,0 +1,83 @@
+[
+  {
+    "subject": "Data Analytics",
+    "data": [
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Data Analytics Slides",
+        "id": "1d1oKihQmwrSwJeBufijF1ucs3hcKXY5H",
+        "solution": null
+      }
+    ]
+  },
+  {
+    "subject": "Artificial Intelligence",
+    "data": [
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Artificial Intelligence Notes",
+        "id": "1hirlDVYgzAF2Af2JM7LDJj25yXCr2LU8",
+        "solution": null
+      },
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Artificial Intelligence Slides",
+        "id": "1pggpssE0T2bk9pu9o3HkUHDqtERt4MZ_",
+        "solution": null
+      }
+    ]
+  },
+  {
+    "subject": "Machine Learning",
+    "data": [
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Machine Learning Notes",
+        "id": "1h0Q4K4HE7zTgiJyPQPo2ymNGLwHFJsSY",
+        "solution": null
+      },
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Machine Learning Slides",
+        "id": "1X2_zLGHdyGX8DrAGfqcVHbR38KUNr0Kg",
+        "solution": null
+      }
+    ]
+  },
+  {
+    "subject": "Mobile Computing",
+    "data": [
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Mobile Computing Slides",
+        "id": "1gm78GW-xwqeRY0ArHozZrqEUYwvXcxV1",
+        "solution": null
+      }
+    ]
+  },
+  {
+    "subject": "Object Oriented System Design",
+    "data": [
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "contribute?",
+        "id": "/app/contribute/IT/6",
+        "solution": null
+      }
+    ]
+  }
+]

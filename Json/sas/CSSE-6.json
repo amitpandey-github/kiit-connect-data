@@ -1,0 +1,206 @@
+[
+  {
+    "First": [
+      {
+        "name": "CloudComputing",
+        "type": "folder",
+        "CloudComputing": [
+          {
+            "name": "PYQS",
+            "type": "folder",
+            "CloudComputingPYQS": [
+              {
+                "mimeType": "application/pdf",
+                "year": "-",
+                "type": "Question Bank",
+                "name": "Question Bank",
+                "id": "1p77yjx7-kcg-aGnTr2VbcmxNLfwFsDQy",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "-",
+                "type": "Question Bank",
+                "name": "Question Bank",
+                "id": "1w8RWXgmtdqHybYPTsLmXE9oD948Ex1hA",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "-",
+                "type": "Question Bank",
+                "name": "Question Bank",
+                "id": "1g2VHYzrku4NQTPmy-KyAfTy9-G6Vd4AO",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "-",
+                "type": "Question Bank",
+                "name": "Question Bank",
+                "id": "1ucfEPHVDSRStTnU1vvoPv-GGDduobNLp",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "-",
+                "type": "Question Bank",
+                "name": "Question Bank",
+                "id": "1uldJHO_wN6dThS0yaeKTIC2Czsls7FWv",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "-",
+                "type": "Question Bank",
+                "name": "Question Bank",
+                "id": "1VLm9a6MIMJCX8Y8AWCFbiJgFoAFfeuxL",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "-",
+                "type": "Question Bank",
+                "name": "Question Bank",
+                "id": "1cmtL3ViNb-o3CFVQw95Nuwr3cOdg_z3p",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2023",
+                "type": "Mid Semester",
+                "name": "Spring Mid Sem Exam",
+                "id": "13D-gIAnmI1Q7Rl1gliNN50cD-Q2WJ27y",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2021",
+                "type": "Mid Semester",
+                "name": "Spring Mid Sem Exam",
+                "id": "1f23TXUR72M__DHr3g1FbqPKgNpcPmtl0",
+                "solution": "1f23TXUR72M__DHr3g1FbqPKgNpcPmtl0"
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2017",
+                "type": "Mid Semester",
+                "name": "Set 1 Autumn Mid Sem Exam",
+                "id": "1HI-OjC9KgfvwyzJY0cu0ysat37Z_JuTP",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2017",
+                "type": "Mid Semester",
+                "name": "Set 2 Autumn Mid Sem Exam",
+                "id": "1O8NXMjza7upB1HvGhe8YB6fuxEwfAyiP",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2016",
+                "type": "Mid Semester",
+                "name": "Set 1 Autumn Mid Sem Exam",
+                "id": "1d0OdcqRCDURepYdqU2ZF2At3AC-20602",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2016",
+                "type": "Mid Semester",
+                "name": "Set 2 Autumn Mid Sem Exam",
+                "id": "11bABpJkeMUbdrpRdr5pgJzyA0x0CUhon",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2022",
+                "type": "End Semester",
+                "name": "Spring End Sem Exam",
+                "id": "1VAyL_xKRlLYrE050lT8CyHK76fn9PX4J",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2021",
+                "type": "End Semester",
+                "name": "Spring End Sem Exam",
+                "id": "1IYBYcjxMX8HWeptBdnwV1x76LRrw2N9m",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2020",
+                "type": "End Semester",
+                "name": "End Sem Exam",
+                "id": "1IolcA3C7yymJ2hB56ALlbCO1NnxUTOPc",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2018",
+                "type": "End Semester",
+                "name": "Autumn End Sem Exam",
+                "id": "1WNZ_FI9V5E1FKAA-CQk-yg_RAWWKnjm9",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2017",
+                "type": "End Semester",
+                "name": "Autumn End Sem Exam",
+                "id": "1Wtt_XhhwUD3cGpV0Rk5Az4EO1FcBAyG-",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2016",
+                "type": "End Semester",
+                "name": "Autumn End Sem Exam",
+                "id": "11k5KdibzGLrvjZ7ZtJ138Md8mgfqHHyN",
+                "solution": null
+              }
+            ]
+          },
+          {
+            "name": "BOOK",
+            "type": "folder",
+            "CloudComputingBOOK": [
+              {
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Cloud Computing: Principles and Paradigms",
+                "id": "1_d-BMBHALbIQOX6T0ftcRZbYiEZ_4sci",
+                "solution": null
+              }
+            ]
+          },
+          {
+            "name": "NOTES",
+            "type": "folder",
+            "CloudComputingNOTES": [
+              {
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Cloud Computing Slides 1",
+                "id": "1Fh0z9cQHwiux3KWf77b96SRX5ZsfAHJm",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Cloud Computing Slides 2",
+                "id": "1Nbxce2VxpuaJUS4cmZUS_estXgBSTeEP",
+                "solution": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

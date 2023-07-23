@@ -1,0 +1,1040 @@
+
+{"First":
+  
+[
+    {
+        "name": "Mathematics-1",
+        "type":"folder",
+        "Mathematics-1": [
+          {
+            "name": "PYQS",
+            "type":"folder",
+            "Mathematics-1PYQS":[
+                {
+                  "mimeType": "application/pdf",
+                  "year": "2015",
+                  "type": "Mid Semester",
+                  "name": "Mid Sem Exam",
+                  "id": "1xROCx4n462LWPiZY8NredaYB7sSmtanD",
+                  "solution": null
+                },
+                {
+                  "mimeType": "application/pdf",
+                  "year": "2015",
+                  "type": "End Semester",
+                  "name": "Autumn End Sem Exam",
+                  "id": "1-t1xKO342QgXpxLgNnpdA5prjqVLEQqq",
+                  "solution": null
+                },
+                {
+                  "mimeType": "application/pdf",
+                  "year": "2016",
+                  "type": "End Semester",
+                  "name": "Autumn End Sem Exam",
+                  "id": "1dJ1HydgrfkSBL7Nk0CHFnESZiOa5uEGl",
+                  "solution": null
+                },
+                {
+                  "mimeType": "application/pdf",
+                  "year": "2014",
+                  "type": "End Semester",
+                  "name": "Autumn End Sem Exam",
+                  "id": "1M-ZAoK6BBkxJTlicrPdK55AdNrTd1ur0",
+                  "solution": null
+                },
+                {
+                  "mimeType": "application/pdf",
+                  "year": "2014",
+                  "type": "End Semester",
+                  "name": "Supplementary Autumn End Sem Exam",
+                  "id": "18hbHW6kxPdEPmgPTuOsumbuuXTZiFnGg",
+                  "solution": null
+                },
+                {
+                  "mimeType": "application/pdf",
+                  "year": "2013",
+                  "type": "End Semester",
+                  "name": "Autumn End Sem Exam",
+                  "id": "1mIUKzKT6pX_3upllAobFXn73OJs5QMMC",
+                  "solution": null
+                },
+                {
+                  "mimeType": "application/pdf",
+                  "year": "2008",
+                  "type": "End Semester",
+                  "name": "End Sem Exam",
+                  "id": "13lAANnhOxMkdhzkKWcu_luhTXJyjamyK",
+                  "solution": null
+                },
+                {
+                  "mimeType": "application/pdf",
+                  "year": "2015",
+                  "type": "Mid Semester",
+                  "name": "Autumn Mid Sem Exam",
+                  "id": "1ZF_Yp4DdxWuTuutiD8T9UXGA3EjXnQII",
+                  "solution": null
+                },
+                {
+                  "mimeType": "application/pdf",
+                  "year": "2014",
+                  "type": "Mid Semester",
+                  "name": "Spring Mid Sem Exam",
+                  "id": "1MgpBPSdcfKX1H8-nVMSWToXHeIRHq6BV",
+                  "solution": null
+                },
+                {
+                  "mimeType": "application/pdf",
+                  "year": "2018",
+                  "type": "End Semester",
+                  "name": "Spring End Sem Exam",
+                  "id": "1ZlZDxMZzKHo3ou9Q7Cg6MNXRnDooVXqb",
+                  "solution": null
+                },
+                {
+                  "mimeType": "application/pdf",
+                  "year": "2017",
+                  "type": "End Semester",
+                  "name": "Autumn End Sem Exam",
+                  "id": "1z-wKypkiGmK0wKlnIU0O-gsNLFGEmc0g",
+                  "solution": null
+                },
+                {
+                  "mimeType": "application/pdf",
+                  "year": "2016",
+                  "type": "End Semester",
+                  "name": "Spring End Sem Exam",
+                  "id": "1lWHwtZcbl4crc7M2na3ChTfZ5lYni9Lp",
+                  "solution": null
+                },
+                {
+                  "mimeType": "application/pdf",
+                  "year": "2016",
+                  "type": "End Semester",
+                  "name": "Autumn End Sem Exam",
+                  "id": "10FwLLQJdY4mluJNzefmh6fD6K9cFsC5h",
+                  "solution": null
+                },
+                {
+                  "mimeType": "application/pdf",
+                  "year": "2013",
+                  "type": "End Semester",
+                  "name": "Spring End Sem Exam",
+                  "id": "1_qY5vgDEcfW1eXj39PQyjZm-dIiGUWNB",
+                  "solution": null
+                },
+                {
+                  "mimeType": "application/pdf",
+                  "year": "2015",
+                  "type": "Mid Semester",
+                  "name": "Mid Sem Exam",
+                  "id": "1LQ2I8h3maNfNO1AfNbbrjgg0Al5Lfc8w",
+                  "solution": null
+                },
+                {
+                  "mimeType": "application/pdf",
+                  "year": "2014",
+                  "type": "Mid Semester",
+                  "name": "Mid Sem Exam",
+                  "id": "1XKAETtcW4o58QuqhNu1uZhDS8HSm_TOB",
+                  "solution": null
+                },
+                {
+                  "mimeType": "application/pdf",
+                  "year": "2016",
+                  "type": "End Semester",
+                  "name": "Spring End Sem Exam",
+                  "id": "1p841V67HwaG3u3SXGk5DPghmFpB4M221",
+                  "solution": null
+                },
+                {
+                  "mimeType": "application/pdf",
+                  "year": "2015",
+                  "type": "End Semester",
+                  "name": "Autumn End Sem Exam",
+                  "id": "1QmotvKhIMltUAj9zef8L_l4pev9h5v-y",
+                  "solution": null
+                },
+                {
+                  "mimeType": "application/pdf",
+                  "year": "2014",
+                  "type": "End Semester",
+                  "name": "Spring End Sem Exam",
+                  "id": "1X6IfNVXMSAqlhngoO1YrBnt73b3cS0DQ",
+                  "solution": null
+                },
+                {
+                  "mimeType": "application/pdf",
+                  "year": "2014",
+                  "type": "End Semester",
+                  "name": "Autumn End Sem Exam",
+                  "id": "1FDbmyd3F30cA12qELtQbPgAkMN23fppR",
+                  "solution": null
+                },
+                {
+                  "mimeType": "application/pdf",
+                  "year": "2013",
+                  "type": "End Semester",
+                  "name": "Spring End Sem Exam",
+                  "id": "1vxu3BRTf8OOLL3li1SLluWMeDI07iVLn",
+                  "solution": null
+                },
+                {
+                  "mimeType": "application/pdf",
+                  "year": "2019",
+                  "type": "Mid Semester",
+                  "name": "Mid Sem Exam",
+                  "id": "1vYzqG86Ru5PwyBJQwb3_d11FYuFm6fft",
+                  "solution": null
+                },
+                {
+                  "mimeType": "application/pdf",
+                  "year": "2019",
+                  "type": "End Semester",
+                  "name": "Spring End Sem Exam",
+                  "id": "1DQfD_v-4DPgg3LOyBzS7TpbwVr5jywE0",
+                  "solution": null
+                }
+              ]
+
+
+
+
+          },
+          
+          {
+            "name": "BOOK",
+            "type":"folder",
+            "Mathematics-1BOOK": [
+                {
+                  "mimeType": "application/pdf",
+                  "size": "1412209",
+                  "id": "1xcFs5k6VpGfwucl6TFlTCHTcmb8X-1BP",
+                  "name": "2017 sol.pdf"
+                 
+                },
+                {
+                  "mimeType": "application/pdf",
+                  "size": "478245",
+                  "id": "1gTGbFYDm9MgP_8X76ejdSvfRMGODCDbG",
+                  "name": "2017.pdf"
+               
+                },
+                {
+                  "mimeType": "application/pdf",
+                  "size": "792326",
+                  "id": "1yNT0FXbOULjNV4xQSPNqxUy3o58yDRkT",
+                  "name": "2018 Sol.pdf"
+                 
+                },
+                {
+                  "mimeType": "application/pdf",
+                  "size": "446641",
+                  "id": "1SSonMUkDoWuu8fOFVyPzwyIDkPzHXV3D",
+                  "name": "2019.pdf"
+                  
+                },
+                {
+                  "mimeType": "application/pdf",
+                  "size": "2502912",
+                  "id": "1HunB1Uecp8UaXOKDtNA9PZcbx6U4QAhS",
+                  "name": "2019 Sol.pdf"
+                
+                },
+                {
+                  "mimeType": "application/pdf",
+                  "size": "367573",
+                  "id": "133Eztn3dnigYXl6u2EglEWzVgWBWsT-6",
+                  "name": "2018.pdf"
+                 
+                },
+                {
+                  "mimeType": "application/pdf",
+                  "size": "2248531",
+                  "id": "1bdj8FtdynqeSFJz2wW_yU_deOMVHRAMT",
+                  "name": "2020 Sol.pdf"
+                  
+                },
+                {
+                  "mimeType": "application/pdf",
+                  "size": "1160691",
+                  "id": "1O0QB4nbJ69rsMw5J3KBWw4mQgT5CVR18",
+                  "name": "2021 Sol.pdf"
+                
+                },
+                {
+                  "mimeType": "application/pdf",
+                  "size": "4775229",
+                  "id": "1VWrapo5HK9G5pDGwKjXp9wjrvoHMGAjs",
+                  "name": "2022 Sol.pdf"
+                
+                },
+                {
+                  "mimeType": "application/pdf",
+                  "size": "451892",
+                  "id": "1MqsNHxiV7fgQe-rMXkiQ6Rw7IRkcIflt",
+                  "name": "2020.pdf"
+             
+                }
+              ]
+          }
+        ]
+      },
+
+
+
+  {
+    "name": "Chemistry",
+    "type":"folder",
+    "Chemistry": [
+      {
+        "name": "Assignment",
+        "type":"folder",
+        "ChemistryAssignment":[{
+          "name":"Assignment2",
+          "type":"file",
+          "data":[1,2,3]
+        },{
+          "name":"Assignment3",
+          "type":"file",
+          "data":[1,2,3]
+        },{
+          "name":"Assignment4",
+          "type":"file",
+          "data":[1,2,3]
+        },{
+          "name":"Assignment5",
+          "type":"file",
+          "data":[1,2,3]
+        },{
+          "name":"Assignment6",
+          "type":"file",
+          "data":[1,2,3]
+        }]
+      },
+      
+      {
+        "name": "BOOK",
+        "type":"folder",
+        "ChemistryBOOK": [
+            {
+              "mimeType": "application/pdf",
+              "size": "1412209",
+              "id": "1xcFs5k6VpGfwucl6TFlTCHTcmb8X-1BP",
+              "name": "2017 sol.pdf"
+             
+            },
+            {
+              "mimeType": "application/pdf",
+              "size": "478245",
+              "id": "1gTGbFYDm9MgP_8X76ejdSvfRMGODCDbG",
+              "name": "2017.pdf"
+           
+            },
+            {
+              "mimeType": "application/pdf",
+              "size": "792326",
+              "id": "1yNT0FXbOULjNV4xQSPNqxUy3o58yDRkT",
+              "name": "2018 Sol.pdf"
+             
+            },
+            {
+              "mimeType": "application/pdf",
+              "size": "446641",
+              "id": "1SSonMUkDoWuu8fOFVyPzwyIDkPzHXV3D",
+              "name": "2019.pdf"
+              
+            },
+            {
+              "mimeType": "application/pdf",
+              "size": "2502912",
+              "id": "1HunB1Uecp8UaXOKDtNA9PZcbx6U4QAhS",
+              "name": "2019 Sol.pdf"
+            
+            },
+            {
+              "mimeType": "application/pdf",
+              "size": "367573",
+              "id": "133Eztn3dnigYXl6u2EglEWzVgWBWsT-6",
+              "name": "2018.pdf"
+             
+            },
+            {
+              "mimeType": "application/pdf",
+              "size": "2248531",
+              "id": "1bdj8FtdynqeSFJz2wW_yU_deOMVHRAMT",
+              "name": "2020 Sol.pdf"
+              
+            },
+            {
+              "mimeType": "application/pdf",
+              "size": "1160691",
+              "id": "1O0QB4nbJ69rsMw5J3KBWw4mQgT5CVR18",
+              "name": "2021 Sol.pdf"
+            
+            },
+            {
+              "mimeType": "application/pdf",
+              "size": "4775229",
+              "id": "1VWrapo5HK9G5pDGwKjXp9wjrvoHMGAjs",
+              "name": "2022 Sol.pdf"
+            
+            },
+            {
+              "mimeType": "application/pdf",
+              "size": "451892",
+              "id": "1MqsNHxiV7fgQe-rMXkiQ6Rw7IRkcIflt",
+              "name": "2020.pdf"
+         
+            }
+          ]
+      },{
+        "name": "PYQS",
+        "type":"folder",
+        "ChemistryPYQS": [
+            {
+              "mimeType": "application/pdf",
+              "year": "2015",
+              "type": "Mid Semester",
+              "name": "Mid Sem Exam",
+              "id": "1xROCx4n462LWPiZY8NredaYB7sSmtanD",
+              "solution": null
+            },
+            {
+              "mimeType": "application/pdf",
+              "year": "2015",
+              "type": "End Semester",
+              "name": "Autumn End Sem Exam",
+              "id": "1-t1xKO342QgXpxLgNnpdA5prjqVLEQqq",
+              "solution": null
+            },
+            {
+              "mimeType": "application/pdf",
+              "year": "2016",
+              "type": "End Semester",
+              "name": "Autumn End Sem Exam",
+              "id": "1dJ1HydgrfkSBL7Nk0CHFnESZiOa5uEGl",
+              "solution": null
+            },
+            {
+              "mimeType": "application/pdf",
+              "year": "2014",
+              "type": "End Semester",
+              "name": "Autumn End Sem Exam",
+              "id": "1M-ZAoK6BBkxJTlicrPdK55AdNrTd1ur0",
+              "solution": null
+            },
+            {
+              "mimeType": "application/pdf",
+              "year": "2014",
+              "type": "End Semester",
+              "name": "Supplementary Autumn End Sem Exam",
+              "id": "18hbHW6kxPdEPmgPTuOsumbuuXTZiFnGg",
+              "solution": null
+            },
+            {
+              "mimeType": "application/pdf",
+              "year": "2013",
+              "type": "End Semester",
+              "name": "Autumn End Sem Exam",
+              "id": "1mIUKzKT6pX_3upllAobFXn73OJs5QMMC",
+              "solution": null
+            },
+            {
+              "mimeType": "application/pdf",
+              "year": "2008",
+              "type": "End Semester",
+              "name": "End Sem Exam",
+              "id": "13lAANnhOxMkdhzkKWcu_luhTXJyjamyK",
+              "solution": null
+            },
+            {
+              "mimeType": "application/pdf",
+              "year": "2015",
+              "type": "Mid Semester",
+              "name": "Autumn Mid Sem Exam",
+              "id": "1ZF_Yp4DdxWuTuutiD8T9UXGA3EjXnQII",
+              "solution": null
+            },
+            {
+              "mimeType": "application/pdf",
+              "year": "2014",
+              "type": "Mid Semester",
+              "name": "Spring Mid Sem Exam",
+              "id": "1MgpBPSdcfKX1H8-nVMSWToXHeIRHq6BV",
+              "solution": null
+            },
+            {
+              "mimeType": "application/pdf",
+              "year": "2018",
+              "type": "End Semester",
+              "name": "Spring End Sem Exam",
+              "id": "1ZlZDxMZzKHo3ou9Q7Cg6MNXRnDooVXqb",
+              "solution": null
+            },
+            {
+              "mimeType": "application/pdf",
+              "year": "2017",
+              "type": "End Semester",
+              "name": "Autumn End Sem Exam",
+              "id": "1z-wKypkiGmK0wKlnIU0O-gsNLFGEmc0g",
+              "solution": null
+            },
+            {
+              "mimeType": "application/pdf",
+              "year": "2016",
+              "type": "End Semester",
+              "name": "Spring End Sem Exam",
+              "id": "1lWHwtZcbl4crc7M2na3ChTfZ5lYni9Lp",
+              "solution": null
+            },
+            {
+              "mimeType": "application/pdf",
+              "year": "2016",
+              "type": "End Semester",
+              "name": "Autumn End Sem Exam",
+              "id": "10FwLLQJdY4mluJNzefmh6fD6K9cFsC5h",
+              "solution": null
+            },
+            {
+              "mimeType": "application/pdf",
+              "year": "2013",
+              "type": "End Semester",
+              "name": "Spring End Sem Exam",
+              "id": "1_qY5vgDEcfW1eXj39PQyjZm-dIiGUWNB",
+              "solution": null
+            },
+            {
+              "mimeType": "application/pdf",
+              "year": "2015",
+              "type": "Mid Semester",
+              "name": "Mid Sem Exam",
+              "id": "1LQ2I8h3maNfNO1AfNbbrjgg0Al5Lfc8w",
+              "solution": null
+            },
+            {
+              "mimeType": "application/pdf",
+              "year": "2014",
+              "type": "Mid Semester",
+              "name": "Mid Sem Exam",
+              "id": "1XKAETtcW4o58QuqhNu1uZhDS8HSm_TOB",
+              "solution": null
+            },
+            {
+              "mimeType": "application/pdf",
+              "year": "2016",
+              "type": "End Semester",
+              "name": "Spring End Sem Exam",
+              "id": "1p841V67HwaG3u3SXGk5DPghmFpB4M221",
+              "solution": null
+            },
+            {
+              "mimeType": "application/pdf",
+              "year": "2015",
+              "type": "End Semester",
+              "name": "Autumn End Sem Exam",
+              "id": "1QmotvKhIMltUAj9zef8L_l4pev9h5v-y",
+              "solution": null
+            },
+            {
+              "mimeType": "application/pdf",
+              "year": "2014",
+              "type": "End Semester",
+              "name": "Spring End Sem Exam",
+              "id": "1X6IfNVXMSAqlhngoO1YrBnt73b3cS0DQ",
+              "solution": null
+            },
+            {
+              "mimeType": "application/pdf",
+              "year": "2014",
+              "type": "End Semester",
+              "name": "Autumn End Sem Exam",
+              "id": "1FDbmyd3F30cA12qELtQbPgAkMN23fppR",
+              "solution": null
+            },
+            {
+              "mimeType": "application/pdf",
+              "year": "2013",
+              "type": "End Semester",
+              "name": "Spring End Sem Exam",
+              "id": "1vxu3BRTf8OOLL3li1SLluWMeDI07iVLn",
+              "solution": null
+            },
+            {
+              "mimeType": "application/pdf",
+              "year": "2019",
+              "type": "Mid Semester",
+              "name": "Mid Sem Exam",
+              "id": "1vYzqG86Ru5PwyBJQwb3_d11FYuFm6fft",
+              "solution": null
+            },
+            {
+              "mimeType": "application/pdf",
+              "year": "2019",
+              "type": "End Semester",
+              "name": "Spring End Sem Exam",
+              "id": "1DQfD_v-4DPgg3LOyBzS7TpbwVr5jywE0",
+              "solution": null
+            }
+          ]
+      }
+    ]
+  }
+  
+  ,{
+    "name": "PCOM",
+    "type":"folder",
+    "PCOM": [
+      {
+        "name": "PYQS",
+        "type":"folder",
+        "PCOMPYQS": [
+          {
+            "mimeType": "application/pdf",
+            "year": "2015",
+            "type": "Mid Semester",
+            "name": "Mid Sem Exam",
+            "id": "1xROCx4n462LWPiZY8NredaYB7sSmtanD",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2015",
+            "type": "End Semester",
+            "name": "Autumn End Sem Exam",
+            "id": "1-t1xKO342QgXpxLgNnpdA5prjqVLEQqq",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2016",
+            "type": "End Semester",
+            "name": "Autumn End Sem Exam",
+            "id": "1dJ1HydgrfkSBL7Nk0CHFnESZiOa5uEGl",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2014",
+            "type": "End Semester",
+            "name": "Autumn End Sem Exam",
+            "id": "1M-ZAoK6BBkxJTlicrPdK55AdNrTd1ur0",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2014",
+            "type": "End Semester",
+            "name": "Supplementary Autumn End Sem Exam",
+            "id": "18hbHW6kxPdEPmgPTuOsumbuuXTZiFnGg",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2013",
+            "type": "End Semester",
+            "name": "Autumn End Sem Exam",
+            "id": "1mIUKzKT6pX_3upllAobFXn73OJs5QMMC",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2008",
+            "type": "End Semester",
+            "name": "End Sem Exam",
+            "id": "13lAANnhOxMkdhzkKWcu_luhTXJyjamyK",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2015",
+            "type": "Mid Semester",
+            "name": "Autumn Mid Sem Exam",
+            "id": "1ZF_Yp4DdxWuTuutiD8T9UXGA3EjXnQII",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2014",
+            "type": "Mid Semester",
+            "name": "Spring Mid Sem Exam",
+            "id": "1MgpBPSdcfKX1H8-nVMSWToXHeIRHq6BV",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2018",
+            "type": "End Semester",
+            "name": "Spring End Sem Exam",
+            "id": "1ZlZDxMZzKHo3ou9Q7Cg6MNXRnDooVXqb",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2017",
+            "type": "End Semester",
+            "name": "Autumn End Sem Exam",
+            "id": "1z-wKypkiGmK0wKlnIU0O-gsNLFGEmc0g",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2016",
+            "type": "End Semester",
+            "name": "Spring End Sem Exam",
+            "id": "1lWHwtZcbl4crc7M2na3ChTfZ5lYni9Lp",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2016",
+            "type": "End Semester",
+            "name": "Autumn End Sem Exam",
+            "id": "10FwLLQJdY4mluJNzefmh6fD6K9cFsC5h",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2013",
+            "type": "End Semester",
+            "name": "Spring End Sem Exam",
+            "id": "1_qY5vgDEcfW1eXj39PQyjZm-dIiGUWNB",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2015",
+            "type": "Mid Semester",
+            "name": "Mid Sem Exam",
+            "id": "1LQ2I8h3maNfNO1AfNbbrjgg0Al5Lfc8w",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2014",
+            "type": "Mid Semester",
+            "name": "Mid Sem Exam",
+            "id": "1XKAETtcW4o58QuqhNu1uZhDS8HSm_TOB",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2016",
+            "type": "End Semester",
+            "name": "Spring End Sem Exam",
+            "id": "1p841V67HwaG3u3SXGk5DPghmFpB4M221",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2015",
+            "type": "End Semester",
+            "name": "Autumn End Sem Exam",
+            "id": "1QmotvKhIMltUAj9zef8L_l4pev9h5v-y",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2014",
+            "type": "End Semester",
+            "name": "Spring End Sem Exam",
+            "id": "1X6IfNVXMSAqlhngoO1YrBnt73b3cS0DQ",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2014",
+            "type": "End Semester",
+            "name": "Autumn End Sem Exam",
+            "id": "1FDbmyd3F30cA12qELtQbPgAkMN23fppR",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2013",
+            "type": "End Semester",
+            "name": "Spring End Sem Exam",
+            "id": "1vxu3BRTf8OOLL3li1SLluWMeDI07iVLn",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2019",
+            "type": "Mid Semester",
+            "name": "Mid Sem Exam",
+            "id": "1vYzqG86Ru5PwyBJQwb3_d11FYuFm6fft",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2019",
+            "type": "End Semester",
+            "name": "Spring End Sem Exam",
+            "id": "1DQfD_v-4DPgg3LOyBzS7TpbwVr5jywE0",
+            "solution": null
+          }
+        ]
+      }
+      
+      ,{
+        "name": "BOOK",
+        "type":"folder",
+        "PCOMBOOK": [{
+          "name":"Beebook1",
+          "type":"file",
+          "data":[1,2,3]
+        },{
+          "name":"Beebook1",
+          "type":"file",
+          "data":[1,2,3]
+        },{
+          "name":"Beebook1",
+          "type":"file",
+          "data":[1,2,3]
+        },{
+          "name":"Beebook1",
+          "type":"file",
+          "data":[1,2,3]
+        },{
+          "name":"Beebook1",
+          "type":"file",
+          "data":[1,2,3]
+        }]
+      },{
+        "name": "LAB",
+        "type":"folder",
+        "BEELAB": [20]
+      },{
+        "name": "Theory",
+        "sub": [21],
+        "Theory":"folder"
+      }
+    ]
+  }
+
+
+  ,{
+    "name": "Biology",
+    "type":"folder",
+    "Biology": [
+      {
+        "name": "PYQS",
+        "type":"folder",
+        "BiologyPYQS": [
+          {
+            "mimeType": "application/pdf",
+            "year": "2015",
+            "type": "Mid Semester",
+            "name": "Mid Sem Exam",
+            "id": "1xROCx4n462LWPiZY8NredaYB7sSmtanD",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2015",
+            "type": "End Semester",
+            "name": "Autumn End Sem Exam",
+            "id": "1-t1xKO342QgXpxLgNnpdA5prjqVLEQqq",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2016",
+            "type": "End Semester",
+            "name": "Autumn End Sem Exam",
+            "id": "1dJ1HydgrfkSBL7Nk0CHFnESZiOa5uEGl",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2014",
+            "type": "End Semester",
+            "name": "Autumn End Sem Exam",
+            "id": "1M-ZAoK6BBkxJTlicrPdK55AdNrTd1ur0",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2014",
+            "type": "End Semester",
+            "name": "Supplementary Autumn End Sem Exam",
+            "id": "18hbHW6kxPdEPmgPTuOsumbuuXTZiFnGg",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2013",
+            "type": "End Semester",
+            "name": "Autumn End Sem Exam",
+            "id": "1mIUKzKT6pX_3upllAobFXn73OJs5QMMC",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2008",
+            "type": "End Semester",
+            "name": "End Sem Exam",
+            "id": "13lAANnhOxMkdhzkKWcu_luhTXJyjamyK",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2015",
+            "type": "Mid Semester",
+            "name": "Autumn Mid Sem Exam",
+            "id": "1ZF_Yp4DdxWuTuutiD8T9UXGA3EjXnQII",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2014",
+            "type": "Mid Semester",
+            "name": "Spring Mid Sem Exam",
+            "id": "1MgpBPSdcfKX1H8-nVMSWToXHeIRHq6BV",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2018",
+            "type": "End Semester",
+            "name": "Spring End Sem Exam",
+            "id": "1ZlZDxMZzKHo3ou9Q7Cg6MNXRnDooVXqb",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2017",
+            "type": "End Semester",
+            "name": "Autumn End Sem Exam",
+            "id": "1z-wKypkiGmK0wKlnIU0O-gsNLFGEmc0g",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2016",
+            "type": "End Semester",
+            "name": "Spring End Sem Exam",
+            "id": "1lWHwtZcbl4crc7M2na3ChTfZ5lYni9Lp",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2016",
+            "type": "End Semester",
+            "name": "Autumn End Sem Exam",
+            "id": "10FwLLQJdY4mluJNzefmh6fD6K9cFsC5h",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2013",
+            "type": "End Semester",
+            "name": "Spring End Sem Exam",
+            "id": "1_qY5vgDEcfW1eXj39PQyjZm-dIiGUWNB",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2015",
+            "type": "Mid Semester",
+            "name": "Mid Sem Exam",
+            "id": "1LQ2I8h3maNfNO1AfNbbrjgg0Al5Lfc8w",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2014",
+            "type": "Mid Semester",
+            "name": "Mid Sem Exam",
+            "id": "1XKAETtcW4o58QuqhNu1uZhDS8HSm_TOB",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2016",
+            "type": "End Semester",
+            "name": "Spring End Sem Exam",
+            "id": "1p841V67HwaG3u3SXGk5DPghmFpB4M221",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2015",
+            "type": "End Semester",
+            "name": "Autumn End Sem Exam",
+            "id": "1QmotvKhIMltUAj9zef8L_l4pev9h5v-y",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2014",
+            "type": "End Semester",
+            "name": "Spring End Sem Exam",
+            "id": "1X6IfNVXMSAqlhngoO1YrBnt73b3cS0DQ",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2014",
+            "type": "End Semester",
+            "name": "Autumn End Sem Exam",
+            "id": "1FDbmyd3F30cA12qELtQbPgAkMN23fppR",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2013",
+            "type": "End Semester",
+            "name": "Spring End Sem Exam",
+            "id": "1vxu3BRTf8OOLL3li1SLluWMeDI07iVLn",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2019",
+            "type": "Mid Semester",
+            "name": "Mid Sem Exam",
+            "id": "1vYzqG86Ru5PwyBJQwb3_d11FYuFm6fft",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2019",
+            "type": "End Semester",
+            "name": "Spring End Sem Exam",
+            "id": "1DQfD_v-4DPgg3LOyBzS7TpbwVr5jywE0",
+            "solution": null
+          }
+        ]
+      }
+
+
+      
+  ,{
+    "name": "PCOM",
+    "type":"folder",
+    "PCOM": [
+      {
+        "name": "PYQS",
+        "type":"folder",
+        "PCOMPYQS": []
+      }
+      
+      ,{
+        "name": "BOOK",
+        "type":"folder",
+        "PCOMBOOK": [{
+          "name":"Beebook1",
+          "type":"file",
+          "data":[1,2,3]
+        }]
+      }
+    ]
+  }
+      
+    
+    ]
+  }
+  
+  
+]
+}

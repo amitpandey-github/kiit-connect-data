@@ -1,0 +1,186 @@
+[
+  {
+    "subject": "Design and Analysis of Algorithms",
+    "data": [
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Design and Analysis of Algorithms Notes 1",
+        "id": "1V6ax8XCjLpQ0j48LtqsKI3dcDawI-1VV",
+        "solution": null
+      },
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Design and Analysis of Algorithms Notes 2",
+        "id": "19KxKy2ChaGopwGLwb_o1NAMCL4g9XgQs",
+        "solution": null
+      }
+    ]
+  },
+  {
+    "subject": "High Performance Computing",
+    "data": [
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "High Performance Computing Notes 1",
+        "id": "1lkVh8n2XDXwCW4_NyuNLDdSi23fzWB4Q",
+        "solution": null
+      },
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "High Performance Computing Notes 2",
+        "id": "1Uji3ssCyep6_Uyh97ZNzEpOOH7zw3ius",
+        "solution": null
+      },
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "High Performance Computing Notes 3",
+        "id": "1S2mK_8d56HfCRLQIakFaQjyTKB8fhJzC",
+        "solution": null
+      },
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "High Performance Computing Slides",
+        "id": "1xNTdtSA9-NYsH584qTDJrmcEa6xRAA6B",
+        "solution": null
+      }
+    ]
+  },
+  {
+    "subject": "Software Engineering",
+    "data": [
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Software Engineering Notes 1",
+        "id": "1iV2mH1h1p3qnMisCDxqG2-2bz0h7ybdG",
+        "solution": null
+      },
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Software Engineering Notes 2",
+        "id": "1PZS_silP27FpNf1LKPPz6kkmpObbwhwk",
+        "solution": null
+      },
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Software Engineering Notes 3",
+        "id": "1vJRa5fuTx-LJxu4Hb0O7WCErawV24u82",
+        "solution": null
+      },
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Software Engineering Slides",
+        "id": "1wPqqqXo26SwY3rJRqKrj-CBJK9qO7Vic",
+        "solution": null
+      }
+    ]
+  },
+  {
+    "subject": "Computer Networking",
+    "data": [
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Computer Networking Notes 1",
+        "id": "1GqZvp3v8sUw1fpLbr5IY7Uw5m4kWIhB_",
+        "solution": null
+      },
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Computer Networking Notes 2",
+        "id": "1xRoTs3-bTMW2BcwARLXBXbSSrI0h7yPw",
+        "solution": null
+      },
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Computer Networking Slides",
+        "id": "19_aeCAoDjjkwDorwYTg0IUUUh6LgIrlZ",
+        "solution": null
+      }
+    ]
+  },
+  {
+    "subject": "Artificial Intelligence",
+    "data": [
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Artificial Intelligence Notes",
+        "id": "1hirlDVYgzAF2Af2JM7LDJj25yXCr2LU8",
+        "solution": null
+      },
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Artificial Intelligence Slides",
+        "id": "1pggpssE0T2bk9pu9o3HkUHDqtERt4MZ_",
+        "solution": null
+      }
+    ]
+  },
+  {
+    "subject": "Computational Intelligence",
+    "data": [
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Computational Intelligence Notes",
+        "id": "1fLN3PdOwQthQXAQqHOCQOGkbITlR-ECZ",
+        "solution": null
+      }
+    ]
+  },
+  {
+    "subject": "Big Data",
+    "data": [
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Big Data Slides",
+        "id": "1j9h4NOGlhKAhZMb-Y2TolGHnb-TEQk1N",
+        "solution": null
+      }
+    ]
+  },
+  {
+    "subject": "Cryptography",
+    "data": [
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Cryptography Slides",
+        "id": "1mr_e2fuoBhpve0u1c5szHhahFGWNCcz3",
+        "solution": null
+      }
+    ]
+  }
+]

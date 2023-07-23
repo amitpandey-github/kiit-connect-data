@@ -1,0 +1,68 @@
+[
+  {
+    "subject": "Operating Systems",
+    "data": {
+      "mimeType": "application/pdf",
+      "year": null,
+      "type": null,
+      "name": "Operating Systems Concepts",
+      "id": "1H4EZ5KUHcE491nhLva4N4BzIpRHF-Ciu",
+      "solution": null
+    }
+  },
+  {
+    "subject": "Automata and Formal Languages",
+    "data": {
+      "mimeType": "application/pdf",
+      "year": null,
+      "type": null,
+      "name": "An Introduction to Formal Languages and AutomataIntroduction to Automata Theory, Languages, and ComputationTheory of Computer Science (Automata, Languages and Computation)",
+      "id": "1B0m7LNaDOJBPbaXuXUBfVFDnPNhu9Qu9",
+      "solution": null
+    }
+  },
+  {
+    "subject": "Web Technology",
+    "data": {
+      "mimeType": "application/pdf",
+      "year": null,
+      "type": null,
+      "name": "Java: The Complete Reference",
+      "id": "1OkJw9K0R_lsw3kY9rVIOStrMwBOy5v9v",
+      "solution": null
+    }
+  },
+  {
+    "subject": "Database Management Systems",
+    "data": {
+      "mimeType": "application/pdf",
+      "year": null,
+      "type": null,
+      "name": "Fundamentals of Database Systems",
+      "id": "1FJ0yrYmn_cmCoSSt-Dr-wLE4g_ZhgNwP",
+      "solution": null
+    }
+  },
+  {
+    "subject": "Computer Architecture",
+    "data": {
+      "mimeType": "application/pdf",
+      "year": null,
+      "type": null,
+      "name": "Computer Organization and Embedded Systems",
+      "id": "1FY9eLRMEOfYY2uZ3Pp6Nin-Pv5tKOprv",
+      "solution": null
+    }
+  },
+  {
+    "subject": "Principle of Digital Communication",
+    "data": {
+      "mimeType": "application/pdf",
+      "year": null,
+      "type": null,
+      "name": "Communication Systems",
+      "id": "1zfBYTwmK-RDL3up6lFuZVCX787Xc5HGo",
+      "solution": null
+    }
+  }
+]

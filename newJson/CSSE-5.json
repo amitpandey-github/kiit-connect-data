@@ -1,0 +1,46 @@
+[
+  {
+    "subject": "Internet of Things",
+    "data": {
+      "mimeType": "application/pdf",
+      "year": null,
+      "type": null,
+      "name": "Internet of Things: A Hands-on Approach",
+      "id": "13MgsyH3rWokNaL3VyQnzZ4QzpXsSAymH",
+      "solution": null
+    }
+  },
+  {
+    "subject": "Computer Networking",
+    "data": {
+      "mimeType": "application/pdf",
+      "year": null,
+      "type": null,
+      "name": "Computer Networks: A Top-down Approach",
+      "id": "1z1Mm63zHf3tSXbNlzeaU94_Zc5_eGtlY",
+      "solution": null
+    }
+  },
+  {
+    "subject": "Artificial Intelligence",
+    "data": {
+      "mimeType": "application/pdf",
+      "year": null,
+      "type": null,
+      "name": "Artificial Intelligence: A Modern Approach",
+      "id": "1iPCfuk-srHgiliKWqJBi3B0CQaKiQZ93",
+      "solution": null
+    }
+  },
+  {
+    "subject": "Software Engineering",
+    "data": {
+      "mimeType": "application/pdf",
+      "year": null,
+      "type": null,
+      "name": "Fundamentals of Software Engineering",
+      "id": "1Fpy3YWDXLI41eT7Ve08Rm3EVewooYoA5",
+      "solution": null
+    }
+  }
+]

@@ -1,0 +1,155 @@
+[
+  {
+    "subject": "Operating Systems",
+    "data": [
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Operating Systems Notes 1",
+        "id": "1vWCjjKOSvWzS2rRK-ZJSLfG_36QLHTFc",
+        "solution": null
+      },
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Operating Systems Notes 2",
+        "id": "1xqKKBZWof3XxpFxpt6NkKniPS1C3YEJ-",
+        "solution": null
+      },
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Operating Systems Notes 3",
+        "id": "1yR4caIysSH5caTQdUxbOyxLDG_2NNGxw",
+        "solution": null
+      },
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Operating Systems Notes 4",
+        "id": "1rMNQEuEMS7Q7VAkVbW2a8F9zN2gxgE7C",
+        "solution": null
+      },
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Operating Systems Slides",
+        "id": "1MlXdQaPC6bey6tbVUAIcNXd0gCEdsvGX",
+        "solution": null
+      }
+    ]
+  },
+  {
+    "subject": "Design and Analysis of Algorithms",
+    "data": [
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Design and Analysis of Algorithms Notes 1",
+        "id": "1V6ax8XCjLpQ0j48LtqsKI3dcDawI-1VV",
+        "solution": null
+      },
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Design and Analysis of Algorithms Notes 2",
+        "id": "19KxKy2ChaGopwGLwb_o1NAMCL4g9XgQs",
+        "solution": null
+      }
+    ]
+  },
+  {
+    "subject": "Database Management Systems",
+    "data": [
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Database Management Systems Notes 1",
+        "id": "1VUdeAVjEYqByu_e3HlYdR65z5Vr4RlTX",
+        "solution": null
+      },
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Database Management Systems Notes 2",
+        "id": "1SjtAEFfWPEcQ4DkHEp5ptK9bdV16PkpF",
+        "solution": null
+      },
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Database Management Systems Notes 3",
+        "id": "1I9R0-7q5rx0SqMs_9dhOjW_QG4l6NghM",
+        "solution": null
+      },
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Database Management Systems Notes 4",
+        "id": "1G7uC6ERqBjmqgxOlJGfEIqVf5kgwJdPA",
+        "solution": null
+      },
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Database Management Systems Slides",
+        "id": "1CEvvjAuftd9FKx65AI2Kb3wNte8VqpYr",
+        "solution": null
+      },
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "SQL and PL/SQL Slides",
+        "id": "1qPpFZ9AYC9Rgb1DKGN3m9uW2XO_zx9s8",
+        "solution": null
+      }
+    ]
+  },
+  {
+    "subject": "Computer Architecture",
+    "data": [
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Computer Architecture Notes 1",
+        "id": "18GfdxjUWhetaegg5fKg8SivPZKUh6DU8",
+        "solution": null
+      },
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Computer Architecture Notes 2",
+        "id": "1RCcRqHzcDll_5zQXllyfycRq-G5gQD6C",
+        "solution": null
+      }
+    ]
+  },
+  {
+    "subject": "Probability and Statistics",
+    "data": [
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Probability and Statistics Notes",
+        "id": "1dKee4g06ImQntGhoaJKIFTl9jNYCwRqr",
+        "solution": null
+      }
+    ]
+  }
+]

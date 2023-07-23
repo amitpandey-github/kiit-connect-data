@@ -1,0 +1,141 @@
+[
+  {
+    "subject": "Internet of Things",
+    "data": [
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Internet of Things Notes",
+        "id": "1hPp6RN1Ipf0ZTDKQwsbB1MhrCEAaNiUz",
+        "solution": null
+      }
+    ]
+  },
+  {
+    "subject": "Computer Networking",
+    "data": [
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Computer Networking Notes 1",
+        "id": "1GqZvp3v8sUw1fpLbr5IY7Uw5m4kWIhB_",
+        "solution": null
+      },
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Computer Networking Notes 2",
+        "id": "1xRoTs3-bTMW2BcwARLXBXbSSrI0h7yPw",
+        "solution": null
+      },
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Computer Networking Slides",
+        "id": "19_aeCAoDjjkwDorwYTg0IUUUh6LgIrlZ",
+        "solution": null
+      }
+    ]
+  },
+  {
+    "subject": "Design and Analysis of Algorithms",
+    "data": [
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Design and Analysis of Algorithms Notes 1",
+        "id": "1V6ax8XCjLpQ0j48LtqsKI3dcDawI-1VV",
+        "solution": null
+      },
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Design and Analysis of Algorithms Notes 2",
+        "id": "19KxKy2ChaGopwGLwb_o1NAMCL4g9XgQs",
+        "solution": null
+      }
+    ]
+  },
+  {
+    "subject": "Software Engineering",
+    "data": [
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Software Engineering Notes 1",
+        "id": "1iV2mH1h1p3qnMisCDxqG2-2bz0h7ybdG",
+        "solution": null
+      },
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Software Engineering Notes 2",
+        "id": "1PZS_silP27FpNf1LKPPz6kkmpObbwhwk",
+        "solution": null
+      },
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Software Engineering Notes 3",
+        "id": "1vJRa5fuTx-LJxu4Hb0O7WCErawV24u82",
+        "solution": null
+      },
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Software Engineering Slides",
+        "id": "1wPqqqXo26SwY3rJRqKrj-CBJK9qO7Vic",
+        "solution": null
+      }
+    ]
+  },
+  {
+    "subject": "Big Data",
+    "data": [
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Big Data Slides",
+        "id": "1j9h4NOGlhKAhZMb-Y2TolGHnb-TEQk1N",
+        "solution": null
+      }
+    ]
+  },
+  {
+    "subject": "Cryptography",
+    "data": [
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Cryptography Slides",
+        "id": "1mr_e2fuoBhpve0u1c5szHhahFGWNCcz3",
+        "solution": null
+      }
+    ]
+  },
+  {
+    "subject": "Data Mining and Data Warehousing",
+    "data": [
+      {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Data Mining and Data Warehousing Notes",
+        "id": "1uc9-41er0rchsJtzRpL-3pLiQqnYzXt_",
+        "solution": null
+      }
+    ]
+  }
+]

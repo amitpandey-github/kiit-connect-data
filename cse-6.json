@@ -1,0 +1,793 @@
+[
+  {
+    "First": [
+      {
+        "name": "Compiler Design",
+        "pyqs": [
+          {
+            "mimeType": "application/pdf",
+            "year": "2023",
+            "type": "Mid Semester",
+            "name": "Spring Mid Sem Exam",
+            "id": "1XHO14TpDkKZSiIqNCi_4FJx7-dMp5DJx",
+            "solution": "1RpHTux4RBXpBLCbM9ikTZKLqfxUZ2o3Z"
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2019",
+            "type": "Mid Semester",
+            "name": "Supplementary Mid Sem Exam",
+            "id": "10u_JAzhDj4Bh9LiHSkCBw_5fEXsQFhV4",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2019",
+            "type": "Mid Semester",
+            "name": "Spring Mid Sem Exam",
+            "id": "12qvn4YI6El23WdnHBKjhXZacATFc_s_8",
+            "solution": "1ywjBNbF9cZdluqmG8oruAGmNDrySRJXb"
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2019",
+            "type": "Mid Semester",
+            "name": "Makeup Spring Mid Sem Exam",
+            "id": "1CYg7H-NC0FV_qwtcA2rVDE98aZF9Nqzb",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2017",
+            "type": "Mid Semester",
+            "name": "Spring Mid Sem Exam",
+            "id": "1WDR_TwW563wIT8wTW3F2sA3rUhq962BE",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2016",
+            "type": "Mid Semester",
+            "name": "Mid Sem Exam",
+            "id": "1FgJk2YEbndzS1YnE6woDlhfwXVG2n-rg",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2015",
+            "type": "Mid Semester",
+            "name": "Mid Sem Exam",
+            "id": "1U46ULcPlBuTmSPstKmHgxKKJRsL-ygJD",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2022",
+            "type": "End Semester",
+            "name": "Spring End Sem Exam",
+            "id": "1-op91ORCNDYLuqZcVy0IeEI1N3ozMNom",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2022",
+            "type": "End Semester",
+            "name": "Autumn End Sem Exam",
+            "id": "1-1cDIwCj2i1nrM-csdDopVDEHHguLk0y",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2021",
+            "type": "End Semester",
+            "name": "Autumn End Sem Exam",
+            "id": "1wlcwL7_gQc3Wz5EMugY_3KqbpfgvZQvV",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2020",
+            "type": "End Semester",
+            "name": "Autumn End Sem Exam",
+            "id": "1-wYeVAlHOjbHXmC8dBfAj5A9RhAiv4PJ",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2019",
+            "type": "End Semester",
+            "name": "Set 1 Spring End Sem Exam",
+            "id": "1AupZRlgWEagBESIctchsEtqGp7oNl0Rr",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2019",
+            "type": "End Semester",
+            "name": "Set 2 Spring End Sem Exam",
+            "id": "17vjmoCb3h3EGuy92nJw9eD4oo_ZhPE2F",
+            "solution": "1sdEfnF8Ugs0jIQwZImusyG0YvC_70FnC"
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2019",
+            "type": "End Semester",
+            "name": "Supplementary End Sem Exam",
+            "id": "1bXR6ZpqhpW8VmPligmTzmmjLo6fy9vkw",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2018",
+            "type": "End Semester",
+            "name": "Spring End Sem Exam",
+            "id": "1-VknA_s6w-JTWcDAHjO1Btt487Cg2SeD",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2016",
+            "type": "End Semester",
+            "name": "Spring End Sem Exam",
+            "id": "1hOx9XGH2P4ydGj5XQNy5FCx8iz_CwwYC",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2015",
+            "type": "End Semester",
+            "name": "Spring End Sem Exam",
+            "id": "1zhu_3qywKHpeycuAmaDFYUT6DeuQGRQN",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2014",
+            "type": "End Semester",
+            "name": "Spring End Sem Exam",
+            "id": "1N3O9MhO9FRJokKRwSDezxUqfHrdZPS0o",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2013",
+            "type": "End Semester",
+            "name": "Spring End Sem Exam",
+            "id": "15fYGo27OrnGKB3nDT6wW_MoBPXcS2hef",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2012",
+            "type": "End Semester",
+            "name": "Autumn End Sem Exam",
+            "id": "1VgpGZx38FrKc1tsOab8LC1lksMNdvnTi",
+            "solution": null
+          }
+        ]
+      },
+      {
+        "name": "Cloud Computing",
+        "pyqs": [
+          {
+            "mimeType": "application/pdf",
+            "year": "-",
+            "type": "Question Bank",
+            "name": "Question Bank",
+            "id": "1p77yjx7-kcg-aGnTr2VbcmxNLfwFsDQy",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "-",
+            "type": "Question Bank",
+            "name": "Question Bank",
+            "id": "1w8RWXgmtdqHybYPTsLmXE9oD948Ex1hA",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "-",
+            "type": "Question Bank",
+            "name": "Question Bank",
+            "id": "1g2VHYzrku4NQTPmy-KyAfTy9-G6Vd4AO",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "-",
+            "type": "Question Bank",
+            "name": "Question Bank",
+            "id": "1ucfEPHVDSRStTnU1vvoPv-GGDduobNLp",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "-",
+            "type": "Question Bank",
+            "name": "Question Bank",
+            "id": "1uldJHO_wN6dThS0yaeKTIC2Czsls7FWv",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "-",
+            "type": "Question Bank",
+            "name": "Question Bank",
+            "id": "1VLm9a6MIMJCX8Y8AWCFbiJgFoAFfeuxL",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "-",
+            "type": "Question Bank",
+            "name": "Question Bank",
+            "id": "1cmtL3ViNb-o3CFVQw95Nuwr3cOdg_z3p",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2023",
+            "type": "Mid Semester",
+            "name": "Spring Mid Sem Exam",
+            "id": "13D-gIAnmI1Q7Rl1gliNN50cD-Q2WJ27y",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2021",
+            "type": "Mid Semester",
+            "name": "Spring Mid Sem Exam",
+            "id": "1f23TXUR72M__DHr3g1FbqPKgNpcPmtl0",
+            "solution": "1f23TXUR72M__DHr3g1FbqPKgNpcPmtl0"
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2017",
+            "type": "Mid Semester",
+            "name": "Set 1 Autumn Mid Sem Exam",
+            "id": "1HI-OjC9KgfvwyzJY0cu0ysat37Z_JuTP",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2017",
+            "type": "Mid Semester",
+            "name": "Set 2 Autumn Mid Sem Exam",
+            "id": "1O8NXMjza7upB1HvGhe8YB6fuxEwfAyiP",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2016",
+            "type": "Mid Semester",
+            "name": "Set 1 Autumn Mid Sem Exam",
+            "id": "1d0OdcqRCDURepYdqU2ZF2At3AC-20602",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2016",
+            "type": "Mid Semester",
+            "name": "Set 2 Autumn Mid Sem Exam",
+            "id": "11bABpJkeMUbdrpRdr5pgJzyA0x0CUhon",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2022",
+            "type": "End Semester",
+            "name": "Spring End Sem Exam",
+            "id": "1VAyL_xKRlLYrE050lT8CyHK76fn9PX4J",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2021",
+            "type": "End Semester",
+            "name": "Spring End Sem Exam",
+            "id": "1IYBYcjxMX8HWeptBdnwV1x76LRrw2N9m",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2020",
+            "type": "End Semester",
+            "name": "End Sem Exam",
+            "id": "1IolcA3C7yymJ2hB56ALlbCO1NnxUTOPc",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2018",
+            "type": "End Semester",
+            "name": "Autumn End Sem Exam",
+            "id": "1WNZ_FI9V5E1FKAA-CQk-yg_RAWWKnjm9",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2017",
+            "type": "End Semester",
+            "name": "Autumn End Sem Exam",
+            "id": "1Wtt_XhhwUD3cGpV0Rk5Az4EO1FcBAyG-",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2016",
+            "type": "End Semester",
+            "name": "Autumn End Sem Exam",
+            "id": "11k5KdibzGLrvjZ7ZtJ138Md8mgfqHHyN",
+            "solution": null
+          }
+        ]
+      },
+      {
+        "name": "Software Project Management",
+        "pyqs": [
+          {
+            "mimeType": "application/pdf",
+            "year": "-",
+            "type": "Question Bank",
+            "name": "Question Bank",
+            "id": "136Qr1YBlTD0CK6oWcwrDFD7JIHmCFS_O",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "-",
+            "type": "Question Bank",
+            "name": "Question Bank",
+            "id": "1tjJqG3X88ne0LICknKxfLYOSwIwkpdSh",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2023",
+            "type": "Mid Semester",
+            "name": "Spring Mid Sem Exam",
+            "id": "1VlNQy_MqjXLePONnnwxncaD7vpCHN2Wf",
+            "solution": "1v5BWaaAvSwYLmZbBjGrFC6uHDDFV1ier"
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2019",
+            "type": "Mid Semester",
+            "name": "Autumn Mid Sem Exam",
+            "id": "1bWiChv5D5TfAswjJwiT8s03oW3ViLhKg",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2019",
+            "type": "Mid Semester",
+            "name": "Mid Sem Exam",
+            "id": "1WtJVzTdnhNIBz_yP_A-K9-wiv-09l-_9",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2015",
+            "type": "Mid Semester",
+            "name": "Mid Sem Exam",
+            "id": "1G6QPNE80Puserol-HNUz5V9ZShlW1Xgp",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2021",
+            "type": "End Semester",
+            "name": "Spring End Sem Exam",
+            "id": "1dFPOkZH4k4FfPzInOHvPePvd_WPA46Hd",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2019",
+            "type": "End Semester",
+            "name": "Autumn End Sem Exam",
+            "id": "1G0QOhnp4mpG3GOwB4qbyydwYNsSbsc0W",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2016",
+            "type": "End Semester",
+            "name": "Spring End Sem Exam",
+            "id": "1ljY-xxHfn-kwZhAnfQFtIz20SgTA2l7c",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2015",
+            "type": "End Semester",
+            "name": "Spring End Sem Exam",
+            "id": "1XyfXh9JW47_7Po7w96xZSIQj8DRnNuPn",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2014",
+            "type": "End Semester",
+            "name": "Spring End Sem Exam",
+            "id": "1ogUAyqXAXnYseKBjXNXfK-3SdLv3XEBT",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2013",
+            "type": "End Semester",
+            "name": "Supplementary End Sem Exam",
+            "id": "1PO6h6Cll5ilfPhhI1RdajTrGZR4vliuo",
+            "solution": null
+          }
+        ]
+      },
+      {
+        "name": "Machine Learning",
+        "pyqs": [
+          {
+            "mimeType": "application/pdf",
+            "year": "-",
+            "type": "Question Bank",
+            "name": "Question Bank",
+            "id": "1ncprZKfBQ8MjM5all776PWskasRLQbng",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "-",
+            "type": "Question Bank",
+            "name": "Question Bank",
+            "id": "16XdQ16JKOBmgMUm4sToI-7oQybAAMv73",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2023",
+            "type": "Mid Semester",
+            "name": "Spring Mid Sem Exam",
+            "id": "1D32b3BZvDCQ6AY2DWBdORNd_Qp8gnZ2Z",
+            "solution": "1OvlqWgQ-4AG1V6qix1f3ogQTDU6j5508"
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2022",
+            "type": "Mid Semester",
+            "name": "Autumn Mid Sem Exam",
+            "id": "1QiZB7oy89rgQR-wpgG-kPqLgPzMBjE0m",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2021",
+            "type": "Mid Semester",
+            "name": "Spring Mid Sem Exam",
+            "id": "1AvGymEfK6mOqGTX3G2piqDjoKttzaQ8_",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2020",
+            "type": "Mid Semester",
+            "name": "Mid Sem Exam",
+            "id": "1JugaxcNG79N61NdHHJ7wljHRA9s7hJ3f",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2020",
+            "type": "Mid Semester",
+            "name": "Set 1 Autumn Mid Sem Exam",
+            "id": "1XH75ylBj85un9oSND_BLBX0xg3zlDjnD",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2020",
+            "type": "Mid Semester",
+            "name": "Set 2 Autumn Mid Sem Exam",
+            "id": "1moYosQlDgZiTioAJbWc7I9EWQAlWshqB",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2021",
+            "type": "End Semester",
+            "name": "Spring End Sem Exam",
+            "id": "1MbObQdSOuMqcMG9SqD64nXaLXKd6Xcl7",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2021",
+            "type": "End Semester",
+            "name": "Autumn End Sem Exam",
+            "id": "10SmjbHDr1mnmKshkscTdVnTkZ6Yutzt7",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2019",
+            "type": "End Semester",
+            "name": "Spring End Sem Exam",
+            "id": "1bn-em9NRCi0oHg85WNsK4phrPixGU4JN",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2018",
+            "type": "End Semester",
+            "name": "End Sem Exam",
+            "id": "19EBy8VB76nTIqYUBfmPK_ohb_pUExnAV",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2017",
+            "type": "End Semester",
+            "name": "End Sem Exam",
+            "id": "1c-X9DTz3fQ9O5269aWYE5l2WRLN0NMC2",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2012",
+            "type": "End Semester",
+            "name": "End Sem Exam",
+            "id": "1Y1ZHzGU6eEg8o_0UWKzJ9pUxplPiPWVL",
+            "solution": null
+          }
+        ]
+      },
+      {
+        "name": "Natural Language Processing",
+        "pyqs": [
+          {
+            "mimeType": "application/pdf",
+            "year": "2023",
+            "type": "Mid Semester",
+            "name": "Spring Mid Sem Exam",
+            "id": "1LUeCjHSnhmqyot9IL_10w--TECbsd-hW",
+            "solution": "11zF8HmgRaYkpJslZMGTBHOqWAGYBMpaJ"
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2022",
+            "type": "Mid Semester",
+            "name": "Autumn Mid Sem Exam",
+            "id": "1KTPmIdRyHEk8DuIgC1XK5CJTig7wH4o6",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2021",
+            "type": "Mid Semester",
+            "name": "Set 1 Spring Mid Sem Exam",
+            "id": "1NopfZsOxCmvLXeWQybhdLl4a9QzXXzon",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2021",
+            "type": "Mid Semester",
+            "name": "Set 2 Spring Mid Sem Exam",
+            "id": "1FYMldvoHUf1hYwHs19i9Ak916gEiDYT1",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2022",
+            "type": "End Semester",
+            "name": "Spring End Sem Exam",
+            "id": "1gfoP5FH2HmYxALs-j0HiSDGEEjUhy1_D",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2022",
+            "type": "End Semester",
+            "name": "Autumn End Sem Exam",
+            "id": "1-HIx4pHtx6GAWLvZjiO4JB0kMsvwMGRI",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2021",
+            "type": "End Semester",
+            "name": "Spring End Sem Exam",
+            "id": "1ih5iGt6jvMBaFY_GYnkpbiN97btv6a_D",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2021",
+            "type": "End Semester",
+            "name": "Autumn End Sem Exam",
+            "id": "1ZPHzVEiZgmwiPVplU99as1yhLKsoUbIj",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2013",
+            "type": "End Semester",
+            "name": "Spring End Sem Exam",
+            "id": "1AI_JGtseaoRn96KstnRd9vPxSZlB50H0",
+            "solution": null
+          }
+        ]
+      },
+      {
+        "name": "Data Analytics",
+        "pyqs": [
+          {
+            "mimeType": "application/pdf",
+            "year": "-",
+            "type": "Question Bank",
+            "name": "Question Bank",
+            "id": "1v-al-sgiy2jzdd_h6S9csYQLMjkVdROl",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2023",
+            "type": "Mid Semester",
+            "name": "Spring Mid Sem Exam",
+            "id": "1ZcoYF6nNC0mRZAl8ACECarZwmEk5-wPr",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2021",
+            "type": "Mid Semester",
+            "name": "Spring Mid Sem Exam",
+            "id": "160mQtdLtydNbqLoieta4TtD91Y2GgSAI",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2020",
+            "type": "Mid Semester",
+            "name": "Mid Sem Exam",
+            "id": "1wCZKzPi66eHe60Ff4r8HcAYFJ58nZmEz",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2017",
+            "type": "Mid Semester",
+            "name": "Autumn Mid Sem Exam",
+            "id": "1MGKGy3kTnvyKSQe1fPZRQQeKN5JpfZ9U",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2017",
+            "type": "Mid Semester",
+            "name": "Spring Mid Sem Exam",
+            "id": "1Ya_iCu40zsbiWEXE_joZPJli3Q0ecj_A",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2016",
+            "type": "Mid Semester",
+            "name": "Mid Sem Exam",
+            "id": "15RDNZvn5HJoqecpglG4h9wjha7amedIm",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2022",
+            "type": "End Semester",
+            "name": "Spring End Sem Exam",
+            "id": "1K60x8pSwVbnpSMxDvbGFDb3Qydn2hc_l",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2021",
+            "type": "End Semester",
+            "name": "Autumn End Sem Exam",
+            "id": "1wLJeqdqhp42x5wE_vl4_vEkzYCiug_Vg",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2019",
+            "type": "End Semester",
+            "name": "Spring End Sem Exam",
+            "id": "1B4hc0KBxZ187WHCUiiOVvTdPny8eCXrT",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2018",
+            "type": "End Semester",
+            "name": "Spring End Sem Exam",
+            "id": "1FYVbq6_5bpCPJCaAM94UfFbZN3USyFX9",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2016",
+            "type": "End Semester",
+            "name": "Spring End Sem Exam",
+            "id": "1x0cZZjw40KHU0REyTkJXUGvn3E6MJMRs",
+            "solution": null
+          }
+        ]
+      },
+      {
+        "name": "Internet of Things",
+        "pyqs": [
+          {
+            "mimeType": "application/pdf",
+            "year": "2022",
+            "type": "Mid Semester",
+            "name": "Autumn Mid Sem Exam",
+            "id": "1pldceXFjXqa_SHqWw7E8hUyHoKhjSeLs",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2019",
+            "type": "Mid Semester",
+            "name": "Spring Mid Sem Exam",
+            "id": "1gxdPzG_rUdROCA6rBlmXEwwTFVIcONGH",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2017",
+            "type": "Mid Semester",
+            "name": "Spring Mid Sem Exam",
+            "id": "1O3D1QoBizh0i_xWBHOgvyuskbiaeoyHU",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2022",
+            "type": "End Semester",
+            "name": "Spring End Sem Exam",
+            "id": "1EKt3QcNbKDGONrV4_y4-64RuS2g6kjmL",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2021",
+            "type": "End Semester",
+            "name": "Spring End Sem Exam",
+            "id": "1xmkuanQXjT4PNP832gvihkZzOA3wkLmi",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2021",
+            "type": "End Semester",
+            "name": "Autumn End Sem Exam",
+            "id": "1ZUG-sMiPDI3RveFF7vIgD6OxMLOCk3Pu",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2020",
+            "type": "End Semester",
+            "name": "Autumn End Sem Exam",
+            "id": "1oNgyq0eRYZ3wZlfAqdVmvr-ppjst8zmN",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": "2019",
+            "type": "End Semester",
+            "name": "Spring End Sem Exam",
+            "id": "1abQr-otcopehEr6S5H7JOhPyL2Rp4eq5",
+            "solution": null
+          }
+        ]
+      }
+    ]
+  }
+]

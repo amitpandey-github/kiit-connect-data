@@ -1,0 +1,607 @@
+[
+  {
+    "First": [
+      {
+        "name": "IOT",
+        "type": "folder",
+        "IOT": [
+          {
+            "name": "PYQS",
+            "type": "folder",
+            "IOTPYQS": [
+              {
+                "mimeType": "application/pdf",
+                "year": "2022",
+                "type": "Mid Semester",
+                "name": "Autumn Mid Sem Exam",
+                "id": "1pldceXFjXqa_SHqWw7E8hUyHoKhjSeLs",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2019",
+                "type": "Mid Semester",
+                "name": "Spring Mid Sem Exam",
+                "id": "1gxdPzG_rUdROCA6rBlmXEwwTFVIcONGH",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2017",
+                "type": "Mid Semester",
+                "name": "Spring Mid Sem Exam",
+                "id": "1O3D1QoBizh0i_xWBHOgvyuskbiaeoyHU",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2022",
+                "type": "End Semester",
+                "name": "Spring End Sem Exam",
+                "id": "1EKt3QcNbKDGONrV4_y4-64RuS2g6kjmL",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2021",
+                "type": "End Semester",
+                "name": "Spring End Sem Exam",
+                "id": "1xmkuanQXjT4PNP832gvihkZzOA3wkLmi",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2021",
+                "type": "End Semester",
+                "name": "Autumn End Sem Exam",
+                "id": "1ZUG-sMiPDI3RveFF7vIgD6OxMLOCk3Pu",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2020",
+                "type": "End Semester",
+                "name": "Autumn End Sem Exam",
+                "id": "1oNgyq0eRYZ3wZlfAqdVmvr-ppjst8zmN",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2019",
+                "type": "End Semester",
+                "name": "Spring End Sem Exam",
+                "id": "1abQr-otcopehEr6S5H7JOhPyL2Rp4eq5",
+                "solution": null
+              }
+            ]
+          },
+          {
+            "name": "BOOK",
+            "type": "folder",
+            "IOTBOOK": [
+              {
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Internet of Things: A Hands-on Approach",
+                "id": "13MgsyH3rWokNaL3VyQnzZ4QzpXsSAymH",
+                "solution": null
+              }
+            ]
+          },
+          {
+            "name": "NOTES",
+            "type": "folder",
+            "IOTNOTES": [
+              {
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Internet of Things Notes",
+                "id": "1hPp6RN1Ipf0ZTDKQwsbB1MhrCEAaNiUz",
+                "solution": null
+              
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "CN",
+        "type": "folder",
+        "CN": [
+          {
+            "name": "PYQS",
+            "type": "folder",
+            "CNPYQS": [
+              {
+                "mimeType": "application/pdf",
+                "year": "2018",
+                "type": "Question Bank",
+                "name": "Question Bank",
+                "id": "12rxgy5sXTs5uua8HzQZ84FdogTADxohw",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2022",
+                "type": "Mid Semester",
+                "name": "Autumn Mid Sem Exam",
+                "id": "11nZtgGDf61znJAomNoa__VKxhJcPz37f",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2020",
+                "type": "Mid Semester",
+                "name": "Mid Sem Exam",
+                "id": "1eejUNTP6Sy1cdilquilXd0XMHHNQgabf",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2019",
+                "type": "Mid Semester",
+                "name": "Autumn Mid Sem Exam",
+                "id": "1wdAeV5AKM9DaHzDDzTQodbYoiSF2P_EK",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2019",
+                "type": "Mid Semester",
+                "name": "Spring Mid Sem Exam",
+                "id": "1HnEqWJx62l8f6EsIRYu-lH1l8ulG-wKa",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2019",
+                "type": "Mid Semester",
+                "name": "Set 1 Supplementary Mid Sem Exam",
+                "id": "1dKjoKlSViVVhJT-K-jBYFPWbM397mFXi",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2019",
+                "type": "Mid Semester",
+                "name": "Set 2 Supplementary Mid Sem Exam",
+                "id": "1Qttr7gvVJ6cZ2_2IxdGpgue4PdWyFtiO",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2019",
+                "type": "Mid Semester",
+                "name": "Spring Re-Mid Sem Exam",
+                "id": "1M-VvaO007kouhI8svaICsxcB_L1qAjDH",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2018",
+                "type": "Mid Semester",
+                "name": "Set 1 Autumn Mid Sem Exam",
+                "id": "13-FpaJRwzKoj5JOeUbo4EkiPyjNw044x",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2018",
+                "type": "Mid Semester",
+                "name": "Set 2 Autumn Mid Sem Exam",
+                "id": "1eRH8X9gg_pAk3MMxXXlx-o9bJKu5ECw9",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2017",
+                "type": "Mid Semester",
+                "name": "Autumn Mid Sem Exam",
+                "id": "1sBUKW4Cd2lhyYszsbYaliLahT0x1B2Zp",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2016",
+                "type": "Mid Semester",
+                "name": "Mid Sem Exam",
+                "id": "10N7crtKYk9XLAXqX8VxoZsamAy4AxRBD",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2022",
+                "type": "End Semester",
+                "name": "Autumn End Sem Exam",
+                "id": "1jfzhuJ0rkrH_1EyHO8_yeZl-ogiJv62p",
+                "solution": "1HeiYPmvt_RQYOYIrUrhldqTHeATsoiVo"
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2019",
+                "type": "End Semester",
+                "name": "Autumn End Sem Exam",
+                "id": "19s3su-Zz3-tgdE71bNY2wwsh5Siix9q1",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2019",
+                "type": "End Semester",
+                "name": "Spring End Sem Exam",
+                "id": "1ecA3fKJtTnW4knyJs7yKHyTbzZq-36sx",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2019",
+                "type": "End Semester",
+                "name": "Supplementary End Sem Exam",
+                "id": "1rE8a-RbonH4LGmItjHiDxv6aLO4ylfNH",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2018",
+                "type": "End Semester",
+                "name": "Autumn End Sem Exam",
+                "id": "1RfFu7mHIv0Otxqj4_IVaaMDvE95ljn8n",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2018",
+                "type": "End Semester",
+                "name": "Supplementary Autumn End Sem Exam",
+                "id": "1uxyAMXOiTAUtjeCXXUr65GEkUjyQb6Ky",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2017",
+                "type": "End Semester",
+                "name": "Autumn End Sem Exam",
+                "id": "1QyGseFZQ1fKKOjQ4Zd4CYsDmP9Kcj8Y8",
+                "solution": null
+              }
+            ]
+          },
+          {
+            "name": "BOOK",
+            "type": "folder",
+            "CNBOOK": [
+              {
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Computer Networks: A Top-down Approach",
+                "id": "1z1Mm63zHf3tSXbNlzeaU94_Zc5_eGtlY",
+                "solution": null
+              }
+            ]
+          },
+          {
+            "name": "NOTES",
+            "type": "folder",
+            "CNNOTES": [
+              {
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Computer Networking Notes 1",
+                "id": "1GqZvp3v8sUw1fpLbr5IY7Uw5m4kWIhB_",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Computer Networking Notes 2",
+                "id": "1xRoTs3-bTMW2BcwARLXBXbSSrI0h7yPw",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Computer Networking Slides",
+                "id": "19_aeCAoDjjkwDorwYTg0IUUUh6LgIrlZ",
+                "solution": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "AI",
+        "type": "folder",
+        "AI": [
+          {
+            "name": "PYQS",
+            "type": "folder",
+            "AIPYQS": [
+              {
+                "mimeType": "application/pdf",
+                "year": "2022",
+                "type": "Question Bank",
+                "name": "Question Bank",
+                "id": "1Lo3UW5ID3_YANd_zgzjFDFfBUWu-s52c",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "-",
+                "type": "Question Bank",
+                "name": "Question Bank",
+                "id": "1MMKJOFeBj0KReq4HwDs_OpO2do-CZeQZ",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2022",
+                "type": "Mid Semester",
+                "name": "Autumn Mid Sem Exam",
+                "id": "1Z8PwHrjOPjnxOJVeTcavUDbDfNfarrNT",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2022",
+                "type": "End Semester",
+                "name": "Autumn End Sem Exam",
+                "id": "1saSai_KiSXoISau3Nz9tLNhVBtW8n1c8",
+                "solution": "1wk6MnQou6uonQ9PbLfxEnKyDVJr5HAjW"
+              }
+            ]
+          },
+          {
+            "name": "BOOK",
+            "type": "folder",
+            "AIBOOK": [
+              {
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Artificial Intelligence: A Modern Approach",
+                "id": "1iPCfuk-srHgiliKWqJBi3B0CQaKiQZ93",
+                "solution": null
+              }
+            ]
+          },
+          {
+            "name": "NOTES",
+            "type": "folder",
+            "AINOTES": [
+              {
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Artificial Intelligence Notes",
+                "id": "1hirlDVYgzAF2Af2JM7LDJj25yXCr2LU8",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Artificial Intelligence Slides",
+                "id": "1pggpssE0T2bk9pu9o3HkUHDqtERt4MZ_",
+                "solution": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "SE",
+        "type": "folder",
+        "SE": [
+          {
+            "name": "PYQS",
+            "type": "folder",
+            "SEPYQS": [
+              {
+                "mimeType": "application/pdf",
+                "year": "2022",
+                "type": "Mid Semester",
+                "name": "Autumn Mid Sem Exam",
+                "id": "1EpKGZOyCN5SfNmAiOQoZHDeZAgHibLir",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2020",
+                "type": "Mid Semester",
+                "name": "Autumn Mid Sem Exam",
+                "id": "1yRcIfZE-HgyofZTGWTBqWxD_NF7SsRD_",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2019",
+                "type": "Mid Semester",
+                "name": "Set 1 Mid Sem Exam",
+                "id": "162WhOZiMhCpEsEymzMfurxNknAaTBZ9O",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2019",
+                "type": "Mid Semester",
+                "name": "Set 2 Mid Sem Exam",
+                "id": "1v7I461yPVKqEvgs3XCi7MzeRA-17jsc9",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2018",
+                "type": "Mid Semester",
+                "name": "Autumn Mid Sem Exam",
+                "id": "1rEwJ8f1VzqznCcEYnvvA0D8fKQB6xnxP",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2018",
+                "type": "Mid Semester",
+                "name": "Autumn Re-Mid Sem Exam",
+                "id": "1InQZ1J5h-RA5GaTnc4AmN46ZPXbKLC7H",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2016",
+                "type": "Mid Semester",
+                "name": "Mid Sem Exam",
+                "id": "1x1p0S_QAKV6UiDnPiSzl6iFlP6DWaGpm",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2015",
+                "type": "Mid Semester",
+                "name": "Mid Sem Exam",
+                "id": "1uqc8pzxhH6tcdsb7KC1mKhJVsH5rBn2a",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2022",
+                "type": "End Semester",
+                "name": "Autumn End Sem Exam",
+                "id": "1FX0zfhMaYo2wTxh-sp0SS4okTul6QyY_",
+                "solution": "1OAVK-Ds_rSGsnBGoTLPw1Ghpu1QHAwpD"
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2018",
+                "type": "End Semester",
+                "name": "Set 1 Autumn End Sem Exam",
+                "id": "17xOeACpLx_mBOmoqTqRPP9oJ3zycABrG",
+                "solution": "1aNddlJyFfOPiakPK7Wz5FgaqE8Gx8z7S"
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2018",
+                "type": "End Semester",
+                "name": "Set 2 Autumn End Sem Exam",
+                "id": "1d-MQ9cL-5MiDprgKlmrn9xTilKsK--H7",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2017",
+                "type": "End Semester",
+                "name": "Autumn End Sem Exam",
+                "id": "1mWvPXEpVmCVOn2-aPoFoZUibN-rB2TcT",
+                "solution": "1PMXOMyHh9FTLO-xRZ8uWu_asmOay0SQK"
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2016",
+                "type": "End Semester",
+                "name": "Autumn End Sem Exam",
+                "id": "1HAoRFv68fyDu3c1tEytzmWd2mKNSY997",
+                "solution": "1Id5s88VVaZfczTDE6QD9fXNXId6Xp1nK"
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2016",
+                "type": "End Semester",
+                "name": "Spring End Sem Exam",
+                "id": "1R-2fA2yub4tQ6v6_3ITx5OZtWZ7l63f4",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2014",
+                "type": "End Semester",
+                "name": "Spring End Sem Exam",
+                "id": "1IrnkIC7_6HKkkHt8UPd9h3r6_05mDN8T",
+                "solution": "1HAEOEJ7_i7egGu8FYMfsbmOA30KzzD6O"
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2013",
+                "type": "End Semester",
+                "name": "Set 1 Spring End Sem Exam",
+                "id": "1U8EpawfvDKOGKPqcdiJpsWcXF9224Yxz",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2013",
+                "type": "End Semester",
+                "name": "Set 2 Spring End Sem Exam",
+                "id": "1svyRQLu-lXMZKk1NOYQMZdDOUQ-1axZS",
+                "solution": "135tZF6SUURq9nFpZh5cO-3PMGVprpCKj"
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2010",
+                "type": "End Semester",
+                "name": "End Sem Exam",
+                "id": "1XBcjXYtm2KOXA3Yd5i99YnHHwp7lTZ0L",
+                "solution": null
+              }
+            ]
+          },
+          {
+            "name": "BOOK",
+            "type": "folder",
+            "SEBOOK": [
+              {
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Fundamentals of Software Engineering",
+                "id": "1Fpy3YWDXLI41eT7Ve08Rm3EVewooYoA5",
+                "solution": null
+              }
+            ]
+          },
+          {
+            "name": "NOTES",
+            "type": "folder",
+            "SENOTES": [
+              {
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Software Engineering Notes 1",
+                "id": "1iV2mH1h1p3qnMisCDxqG2-2bz0h7ybdG",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Software Engineering Notes 2",
+                "id": "1PZS_silP27FpNf1LKPPz6kkmpObbwhwk",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Software Engineering Notes 3",
+                "id": "1vJRa5fuTx-LJxu4Hb0O7WCErawV24u82",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Software Engineering Slides",
+                "id": "1wPqqqXo26SwY3rJRqKrj-CBJK9qO7Vic",
+                "solution": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

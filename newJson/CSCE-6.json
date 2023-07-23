@@ -1,0 +1,68 @@
+[
+  {
+    "subject": "Cloud Computing",
+    "data": {
+      "mimeType": "application/pdf",
+      "year": null,
+      "type": null,
+      "name": "Cloud Computing: Principles and Paradigms",
+      "id": "1_d-BMBHALbIQOX6T0ftcRZbYiEZ_4sci",
+      "solution": null
+    }
+  },
+  {
+    "subject": "Cellular Communication",
+    "data": {
+      "mimeType": "application/pdf",
+      "year": null,
+      "type": null,
+      "name": "Wireless Communications: Principles and Practice",
+      "id": "1IDjQdtD9E3cJgqQKpbDLLi2Rvqayylxn",
+      "solution": null
+    }
+  },
+  {
+    "subject": "Machine Learning",
+    "data": {
+      "mimeType": "application/pdf",
+      "year": null,
+      "type": null,
+      "name": "Applied Machine Learning",
+      "id": "1WNVuOraimUY3g0lZncyC2goH159q0UJA",
+      "solution": null
+    }
+  },
+  {
+    "subject": "Internet of Things",
+    "data": {
+      "mimeType": "application/pdf",
+      "year": null,
+      "type": null,
+      "name": "Internet of Things: A Hands-on Approach",
+      "id": "13MgsyH3rWokNaL3VyQnzZ4QzpXsSAymH",
+      "solution": null
+    }
+  },
+  {
+    "subject": "Data Analytics",
+    "data": {
+      "mimeType": "application/pdf",
+      "year": null,
+      "type": null,
+      "name": "Mastering Social Media Mining with Python",
+      "id": "1zpORybGu5MtmGsq4dB5SBhnbgilTVpDE",
+      "solution": null
+    }
+  },
+  {
+    "subject": "Mobile Computing",
+    "data": {
+      "mimeType": "application/pdf",
+      "year": null,
+      "type": null,
+      "name": "Fundamentals of Mobile Computing",
+      "id": "1jJwdkKBDfdNgg-lLftnom4uTOMQ6xpD6",
+      "solution": null
+    }
+  }
+]

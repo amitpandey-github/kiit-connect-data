@@ -1,0 +1,342 @@
+[
+  {
+    "First": [
+      {
+        "name": "Mathematics-2",
+        "type": "folder",
+        "Mathematics-2": [
+          {
+            "name": "PYQS",
+            "type": "folder",
+            "Mathematics-2PYQS": [
+              {
+                "mimeType": "application/pdf",
+                "year": "2018",
+                "type": "Mid Semester",
+                "name": "Spring Mid Sem Exam",
+                "id": "1ulayRk51TokVeIRNorCId4alK8SeHUrTx",
+                "solution": "19PrrDyKxCe4wxxztnDBAnFJFKi9EVGgX"
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2014",
+                "type": "Mid Semester",
+                "name": "Mid Sem Exam",
+                "id": "15U-8JEnPIlPuSaZT0R237s5TpSYYuMcb",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2022",
+                "type": "End Semester",
+                "name": "Autumn End Sem Exam",
+                "id": "1q3uP_60cJDXZFNMtziHNOM-SbzlyitRe",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2019",
+                "type": "End Semester",
+                "name": "Spring End Sem Exam",
+                "id": "1pIyO6t5q2kd-fIiSQ5_S0pga5B4KDWN0",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2018",
+                "type": "End Semester",
+                "name": "Spring End Sem Exam",
+                "id": "1s3OZePq_iUT8oPN_78tZzi8FGmDok3EE",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2016",
+                "type": "End Semester",
+                "name": "Spring End Sem Exam",
+                "id": "1Y1d6Nj3budTn0WvyktS6WesPFvfPduZv",
+                "solution": null
+              }
+            ]
+          },
+          {
+            "name": "BOOK",
+            "type": "folder",
+            "Mathematics-2BOOK": [
+              {
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Advanced Engineering Mathematics",
+                "id": "1HK6Ur-vj92HTh0CobvnSKzpmJUzPH_7o",
+                "solution": null
+              }
+            ]
+          },
+          {
+            "name": "NOTES",
+            "type": "folder",
+            "Mathematics-2NOTES": [
+              {
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "contribute?",
+                "id": "/app/contribute/CSCE/2",
+                "solution": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Chemistry",
+        "type": "folder",
+        "Chemistry": [
+          {
+            "name": "PYQS",
+            "type": "folder",
+            "ChemistryPYQS": [
+              {
+                "mimeType": "application/pdf",
+                "year": "2015",
+                "type": "Mid Semester",
+                "name": "Autumn Mid Sem Exam",
+                "id": "1ZF_Yp4DdxWuTuutiD8T9UXGA3EjXnQII",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2014",
+                "type": "Mid Semester",
+                "name": "Spring Mid Sem Exam",
+                "id": "1MgpBPSdcfKX1H8-nVMSWToXHeIRHq6BV",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2018",
+                "type": "End Semester",
+                "name": "Spring End Sem Exam",
+                "id": "1ZlZDxMZzKHo3ou9Q7Cg6MNXRnDooVXqb",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2017",
+                "type": "End Semester",
+                "name": "Autumn End Sem Exam",
+                "id": "1z-wKypkiGmK0wKlnIU0O-gsNLFGEmc0g",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2016",
+                "type": "End Semester",
+                "name": "Spring End Sem Exam",
+                "id": "1lWHwtZcbl4crc7M2na3ChTfZ5lYni9Lp",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2016",
+                "type": "End Semester",
+                "name": "Autumn End Sem Exam",
+                "id": "10FwLLQJdY4mluJNzefmh6fD6K9cFsC5h",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2013",
+                "type": "End Semester",
+                "name": "Spring End Sem Exam",
+                "id": "1_qY5vgDEcfW1eXj39PQyjZm-dIiGUWNB",
+                "solution": null
+              }
+            ]
+          },
+          {
+            "name": "BOOK",
+            "type": "folder",
+            "ChemistryBOOK": [
+              {
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Engineering Chemistry: Fundamentals and ApplicationsPhysical Chemistry",
+                "id": "1HmgXZq8Ro18q22YsRK9IkIq7K3micHxH",
+                "solution": null
+              }
+            ]
+          },
+          {
+            "name": "NOTES",
+            "type": "folder",
+            "ChemistryNOTES": [
+              {
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Chemistry Notes",
+                "id": "1AnSEmdS2Wi5FHJFTDEVt4EFgEQIS5ugT",
+                "solution": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "PCOM",
+        "type": "folder",
+        "PCOM": [
+          {
+            "name": "PYQS",
+            "type": "folder",
+            "PCOMPYQS": [
+              {
+                "mimeType": "application/pdf",
+                "year": "2015",
+                "type": "Mid Semester",
+                "name": "Mid Sem Exam",
+                "id": "1LQ2I8h3maNfNO1AfNbbrjgg0Al5Lfc8w",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2014",
+                "type": "Mid Semester",
+                "name": "Mid Sem Exam",
+                "id": "1XKAETtcW4o58QuqhNu1uZhDS8HSm_TOB",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2016",
+                "type": "End Semester",
+                "name": "Spring End Sem Exam",
+                "id": "1p841V67HwaG3u3SXGk5DPghmFpB4M221",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2015",
+                "type": "End Semester",
+                "name": "Autumn End Sem Exam",
+                "id": "1QmotvKhIMltUAj9zef8L_l4pev9h5v-y",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2014",
+                "type": "End Semester",
+                "name": "Spring End Sem Exam",
+                "id": "1X6IfNVXMSAqlhngoO1YrBnt73b3cS0DQ",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2014",
+                "type": "End Semester",
+                "name": "Autumn End Sem Exam",
+                "id": "1FDbmyd3F30cA12qELtQbPgAkMN23fppR",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2013",
+                "type": "End Semester",
+                "name": "Spring End Sem Exam",
+                "id": "1vxu3BRTf8OOLL3li1SLluWMeDI07iVLn",
+                "solution": null
+              }
+            ]
+          },
+          {
+            "name": "BOOK",
+            "type": "folder",
+            "PCOMBOOK": [
+              {
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Technical Communication Principles and Practice",
+                "id": "1LCzw9iQKNBNozYtxJMMrov5-Bqk1gaAJ",
+                "solution": null
+              }
+            ]
+          },
+          {
+            "name": "NOTES",
+            "type": "folder",
+            "PCOMNOTES": [
+              {
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "Professional Communication Notes",
+                "id": "1TLPDtbbHbLaU9-RTp7ykJlwZWJFBDF_r",
+                "solution": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Biology",
+        "type": "folder",
+        "Biology": [
+          {
+            "name": "PYQS",
+            "type": "folder",
+            "BiologyPYQS": [
+              {
+                "mimeType": "application/pdf",
+                "year": "2019",
+                "type": "Mid Semester",
+                "name": "Mid Sem Exam",
+                "id": "1vYzqG86Ru5PwyBJQwb3_d11FYuFm6fft",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2019",
+                "type": "End Semester",
+                "name": "Spring End Sem Exam",
+                "id": "1DQfD_v-4DPgg3LOyBzS7TpbwVr5jywE0",
+                "solution": null
+              }
+            ]
+          },
+          {
+            "name": "BOOK",
+            "type": "folder",
+            "BiologyBOOK": [
+               {
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "",
+                "id": "/app/contribute/CSCE/2",
+                "solution": null
+              }
+            ]
+          },
+          {
+            "name": "NOTES",
+            "type": "folder",
+            "BiologyNOTES": [
+              {
+                "mimeType": "application/pdf",
+                "year": null,
+                "type": null,
+                "name": "contribute?",
+                "id": "/app/contribute/CSCE/2",
+                "solution": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
