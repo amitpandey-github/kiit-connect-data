@@ -3,67 +3,55 @@
     {
       "subject": "Cloud Computing",
       "data": {
-        "mimeType": "application/pdf",
-        "year": null,
-        "type": null,
         "name": "Cloud Computing: Principles and Paradigms",
         "id": "1_d-BMBHALbIQOX6T0ftcRZbYiEZ_4sci",
-        "solution": null
+        "img": "https://drive.google.com/uc?id=1e0IgTQ5V6CnU8zc8SQIFnrrfFy5YfqGL",
+        "author": "by Rajkumar Buyya, James Broberg, Andrzej Goscinski"
       }
     },
     {
       "subject": "Cellular Communication",
       "data": {
-        "mimeType": "application/pdf",
-        "year": null,
-        "type": null,
         "name": "Wireless Communications: Principles and Practice",
         "id": "1IDjQdtD9E3cJgqQKpbDLLi2Rvqayylxn",
-        "solution": null
+        "img": "https://drive.google.com/uc?id=1X77jIrerbr_fI5EbXFE-KuRCojQ46CfA",
+        "author": "by Theodore Rappaport"
       }
     },
     {
       "subject": "Machine Learning",
       "data": {
-        "mimeType": "application/pdf",
-        "year": null,
-        "type": null,
         "name": "Applied Machine Learning",
         "id": "1WNVuOraimUY3g0lZncyC2goH159q0UJA",
-        "solution": null
+        "img": "https://drive.google.com/uc?id=1NAkYv4mUoTF32dw2St0PGkpUW_sBtZOR",
+        "author": "by M. Gopal"
       }
     },
     {
       "subject": "Internet of Things",
       "data": {
-        "mimeType": "application/pdf",
-        "year": null,
-        "type": null,
         "name": "Internet of Things: A Hands-on Approach",
         "id": "13MgsyH3rWokNaL3VyQnzZ4QzpXsSAymH",
-        "solution": null
+        "img": "https://drive.google.com/uc?id=135USlEhAUlZmwNhmqMObcABlS1yR7x9F",
+        "author": "by Arshdeep Bahga and Vijay K. Madisetti"
       }
     },
     {
       "subject": "Data Analytics",
       "data": {
-        "mimeType": "application/pdf",
-        "year": null,
-        "type": null,
         "name": "Mastering Social Media Mining with Python",
         "id": "1zpORybGu5MtmGsq4dB5SBhnbgilTVpDE",
-        "solution": null
+        "img": "https://drive.google.com/uc?id=1XRAelx0JnW5d0IeYWEk6AThqgub8sol3",
+        "author": "by Marco Bonzanini"
       }
     },
     {
       "subject": "Mobile Computing",
       "data": {
-        "mimeType": "application/pdf",
-        "year": null,
-        "type": null,
         "name": "Fundamentals of Mobile Computing",
         "id": "1jJwdkKBDfdNgg-lLftnom4uTOMQ6xpD6",
-        "solution": null
+        "img": "https://drive.google.com/uc?id=1zIVCy_y9Le-mCal04dtvBd-I91pCxTBc",
+        "author": "by  Prasant Kumar Pattnaik and Rajib Mall"
       }
     }
   ]

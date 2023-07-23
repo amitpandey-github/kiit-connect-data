@@ -3,56 +3,46 @@
     {
       "subject": "Operating Systems",
       "data": {
-        "mimeType": "application/pdf",
-        "year": null,
-        "type": null,
         "name": "Operating Systems Concepts",
         "id": "1H4EZ5KUHcE491nhLva4N4BzIpRHF-Ciu",
-        "solution": null
+        "img": "https://drive.google.com/uc?id=1jGiXlgNsQxeXsIoKi39jBzDEvx2ySYY5",
+        "author": "by Abraham Silerschatz, Greg Gagne, and Peter Baer Galvin"
       }
     },
     {
       "subject": "Design and Analysis of Algorithms",
       "data": {
-        "mimeType": "application/pdf",
-        "year": null,
-        "type": null,
         "name": "Introduction to AlgorithmsFundamentals of Computer Algorithms",
         "id": "1VyxfINclRY5GXDd__GA8NAW8HJGRJx8J",
-        "solution": null
+        "img": "https://drive.google.com/uc?id=1v3y_5n-5IXDzRwhcxck9XvV_pKJInfUl",
+        "author": "by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Steinby Ellis Horowitz and Sartaj Sahni"
       }
     },
     {
       "subject": "Database Management Systems",
       "data": {
-        "mimeType": "application/pdf",
-        "year": null,
-        "type": null,
         "name": "Fundamentals of Database Systems",
         "id": "1FJ0yrYmn_cmCoSSt-Dr-wLE4g_ZhgNwP",
-        "solution": null
+        "img": "https://drive.google.com/uc?id=1cIILsJ2pDn4hOZYzthRmwWMvmTGMn8ID",
+        "author": "by Ramez Elmasri Shamkant B. Navathe"
       }
     },
     {
       "subject": "Computer Architecture",
       "data": {
-        "mimeType": "application/pdf",
-        "year": null,
-        "type": null,
         "name": "Computer Organization and Embedded Systems",
         "id": "1FY9eLRMEOfYY2uZ3Pp6Nin-Pv5tKOprv",
-        "solution": null
+        "img": "https://drive.google.com/uc?id=129fNFP8Kx-bPuzpLkzJ3wcBDIvmQbif9",
+        "author": "by V. Carl Hamacher, Safwat G. Zaky, Zvonko Vranesic, Zvonko G Vranesic"
       }
     },
     {
       "subject": "Probability and Statistics",
       "data": {
-        "mimeType": "application/pdf",
-        "year": null,
-        "type": null,
         "name": "Probability and Statistics for Engineering and the Sciences",
         "id": "19ET32hi9wnTBnCWFq1ALERjXvZNAoFyy",
-        "solution": null
+        "img": "https://drive.google.com/uc?id=1_RhYQzVJ-RusLvpgwcoXE_M7RVPcNQHf",
+        "author": "by Jay L. Devore"
       }
     }
   ]

@@ -3,56 +3,46 @@
     {
       "subject": "Data Analytics",
       "data": {
-        "mimeType": "application/pdf",
-        "year": null,
-        "type": null,
         "name": "Mastering Social Media Mining with Python",
         "id": "1zpORybGu5MtmGsq4dB5SBhnbgilTVpDE",
-        "solution": null
+        "img": "https://drive.google.com/uc?id=1XRAelx0JnW5d0IeYWEk6AThqgub8sol3",
+        "author": "by Marco Bonzanini"
       }
     },
     {
       "subject": "Artificial Intelligence",
       "data": {
-        "mimeType": "application/pdf",
-        "year": null,
-        "type": null,
         "name": "Artificial Intelligence: A Modern Approach",
         "id": "1iPCfuk-srHgiliKWqJBi3B0CQaKiQZ93",
-        "solution": null
+        "img": "https://drive.google.com/uc?id=1a5nJxeBEFL4pbjI1e2I8-V04RRz8XEzK",
+        "author": "by Peter Norvig and Stuart J. Russe"
       }
     },
     {
       "subject": "Machine Learning",
       "data": {
-        "mimeType": "application/pdf",
-        "year": null,
-        "type": null,
         "name": "Applied Machine Learning",
         "id": "1WNVuOraimUY3g0lZncyC2goH159q0UJA",
-        "solution": null
+        "img": "https://drive.google.com/uc?id=1NAkYv4mUoTF32dw2St0PGkpUW_sBtZOR",
+        "author": "by M. Gopal"
       }
     },
     {
       "subject": "Mobile Computing",
       "data": {
-        "mimeType": "application/pdf",
-        "year": null,
-        "type": null,
         "name": "Fundamentals of Mobile Computing",
         "id": "1jJwdkKBDfdNgg-lLftnom4uTOMQ6xpD6",
-        "solution": null
+        "img": "https://drive.google.com/uc?id=1zIVCy_y9Le-mCal04dtvBd-I91pCxTBc",
+        "author": "by  Prasant Kumar Pattnaik and Rajib Mall"
       }
     },
     {
       "subject": "Object Oriented System Design",
       "data": {
-        "mimeType": "application/pdf",
-        "year": null,
-        "type": null,
         "name": "Object oriented systems development",
         "id": "10l4FwRne8GMoRlIKqtbhpndH6fIq0mPt",
-        "solution": null
+        "img": "https://drive.google.com/uc?id=1APP3MImCODayQI9eUCTuWT5s4kAGPYr_",
+        "author": "by Ali Bahrami"
       }
     }
   ]

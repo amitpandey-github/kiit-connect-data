@@ -3,67 +3,46 @@
     {
       "subject": "Mathematics Part One",
       "data": {
-        "mimeType": "application/pdf",
-        "year": null,
-        "type": null,
         "name": "Advanced Engineering Mathematics",
         "id": "1fFq5jf9kxMn1t713vfYrwmUfJ1mmjlg5",
-        "solution": null
+        "img": "https://drive.google.com/uc?id=1EDiPM3eGZJYJ-6JwbzuCihFbHf_ZrIkc",
+        "author": "by Edward J. Norminton, Erwin Kreyszig, and Herbert Kreyszig"
       }
     },
     {
       "subject": "Physics",
       "data": {
-        "mimeType": "application/pdf",
-        "year": null,
-        "type": null,
         "name": "Engineering Physics",
         "id": "1ZrUCZyGD9OAll5yRh15VBFIj3OsMhAw7",
-        "solution": null
+        "img": "https://drive.google.com/uc?id=1g-4AYHa8SFuyhidTz3mXp_GfyaYF8UR9",
+        "author": "by B.K. Pandey  S. Chaturvedi"
       }
     },
     {
       "subject": "Basic Electrical Engineering",
       "data": {
-        "mimeType": "application/pdf",
-        "year": null,
-        "type": null,
         "name": "Basic Electrical Engineering",
         "id": "1PshoP-aEKQlmUyXvm3NEfIg0XdbN--AP",
-        "solution": null
+        "img": "https://drive.google.com/uc?id=1FaOgy0uU7qYVLGdhW5fBgwV_ei5zEogF",
+        "author": "by D. C. Kulshreshtha"
       }
     },
     {
       "subject": "Analog Electronic Circuits",
       "data": {
-        "mimeType": "application/pdf",
-        "year": null,
-        "type": null,
         "name": "Electronic Devices and Circuit Theory",
         "id": "1duRiBfPEOpMtOjcRolbr9a4wG8voAttY",
-        "solution": null
+        "img": "https://drive.google.com/uc?id=1hIcIPCTwOUJBwd5XQu2sWqiTdhTEpqZq",
+        "author": "by Louis Nashelsky and Robert Boylestad"
       }
     },
     {
       "subject": "Basic Manufacturing Systems",
       "data": {
-        "mimeType": "application/pdf",
-        "year": null,
-        "type": null,
         "name": "Introduction To Basic Manufacturing Process & Workshop Technology",
         "id": "13IkB64l3U_OKBa0EN34fqQOoMyAkrMpa",
-        "solution": null
-      }
-    },
-    {
-      "subject": "Environmental Science",
-      "data": {
-        "mimeType": "application/pdf",
-        "year": null,
-        "type": null,
-        "name": "",
-        "id": "/app/contribute/IT/1",
-        "solution": null
+        "img": "https://drive.google.com/uc?id=1YWrs8yiwXU4Ayzju7IyHHkVq1eDP4C1U",
+        "author": "by Rajender Singh"
       }
     }
   ]

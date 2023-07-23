@@ -3,45 +3,28 @@
     {
       "subject": "Mathematics Part Two",
       "data": {
-        "mimeType": "application/pdf",
-        "year": null,
-        "type": null,
         "name": "Advanced Engineering Mathematics",
         "id": "1HK6Ur-vj92HTh0CobvnSKzpmJUzPH_7o",
-        "solution": null
+        "img": "https://drive.google.com/uc?id=1EDiPM3eGZJYJ-6JwbzuCihFbHf_ZrIkc",
+        "author": "by Edward J. Norminton, Erwin Kreyszig, and Herbert Kreyszig"
       }
     },
     {
       "subject": "Chemistry",
       "data": {
-        "mimeType": "application/pdf",
-        "year": null,
-        "type": null,
         "name": "Engineering Chemistry: Fundamentals and ApplicationsPhysical Chemistry",
         "id": "1HmgXZq8Ro18q22YsRK9IkIq7K3micHxH",
-        "solution": null
+        "img": "https://drive.google.com/uc?id=1ls-6WsD32txmVcWS5l0mTQUlEPFC_AC9",
+        "author": "by Shikha Agarwalby Puri Sharma Pathania"
       }
     },
     {
       "subject": "Professional Communication",
       "data": {
-        "mimeType": "application/pdf",
-        "year": null,
-        "type": null,
         "name": "Technical Communication Principles and Practice",
         "id": "1LCzw9iQKNBNozYtxJMMrov5-Bqk1gaAJ",
-        "solution": null
-      }
-    },
-    {
-      "subject": "Biology",
-      "data": {
-        "mimeType": "application/pdf",
-        "year": null,
-        "type": null,
-        "name": "",
-        "id": "/app/contribute/IT/2",
-        "solution": null
+        "img": "https://drive.google.com/uc?id=1r2aYQ6fhnBV5JYx9csYmFlQD-GJpQGlo",
+        "author": "by Meenakshi Raman,  Sangeeta Sharma"
       }
     }
   ]

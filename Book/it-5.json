@@ -3,78 +3,55 @@
     {
       "subject": "Internet of Things",
       "data": {
-        "mimeType": "application/pdf",
-        "year": null,
-        "type": null,
         "name": "Internet of Things: A Hands-on Approach",
         "id": "13MgsyH3rWokNaL3VyQnzZ4QzpXsSAymH",
-        "solution": null
+        "img": "https://drive.google.com/uc?id=135USlEhAUlZmwNhmqMObcABlS1yR7x9F",
+        "author": "by Arshdeep Bahga and Vijay K. Madisetti"
       }
     },
     {
       "subject": "Computer Networking",
       "data": {
-        "mimeType": "application/pdf",
-        "year": null,
-        "type": null,
         "name": "Computer Networks: A Top-down Approach",
         "id": "1z1Mm63zHf3tSXbNlzeaU94_Zc5_eGtlY",
-        "solution": null
+        "img": "https://drive.google.com/uc?id=1kfcBLmnY2lRVhNAdqMQbKZYdQgFpovN6",
+        "author": "by Behrouz A. Forouzan and Firouz Mosharraf"
       }
     },
     {
       "subject": "Design and Analysis of Algorithms",
       "data": {
-        "mimeType": "application/pdf",
-        "year": null,
-        "type": null,
         "name": "Introduction to AlgorithmsFundamentals of Computer Algorithms",
         "id": "1VyxfINclRY5GXDd__GA8NAW8HJGRJx8J",
-        "solution": null
+        "img": "https://drive.google.com/uc?id=1v3y_5n-5IXDzRwhcxck9XvV_pKJInfUl",
+        "author": "by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Steinby Ellis Horowitz and Sartaj Sahni"
       }
     },
     {
       "subject": "Software Engineering",
       "data": {
-        "mimeType": "application/pdf",
-        "year": null,
-        "type": null,
         "name": "Fundamentals of Software Engineering",
         "id": "1Fpy3YWDXLI41eT7Ve08Rm3EVewooYoA5",
-        "solution": null
-      }
-    },
-    {
-      "subject": "Big Data",
-      "data": {
-        "mimeType": "application/pdf",
-        "year": null,
-        "type": null,
-        "name": "",
-        "id": "/app/contribute/IT/5",
-        "solution": null
+        "img": "https://drive.google.com/uc?id=1CGOlFWEVK5A00Toc5sfEXz21juU-k-NY",
+        "author": "by Rajib Mall"
       }
     },
     {
       "subject": "Cryptography",
       "data": {
-        "mimeType": "application/pdf",
-        "year": null,
-        "type": null,
         "name": "Introduction to Cryptography and Network Security",
         "id": "1ZxG9G_IbWlh-1TDlu2Ezix91py_sqEHK",
-        "solution": null
+        "img": "https://drive.google.com/uc?id=115OUjc7x3J_JF5EJcfCehSG7MdqoGc5w",
+        "author": "by Behrouz A. Forouzan"
       }
     },
     {
       "subject": "Data Mining and Data Warehousing",
       "data": {
-        "mimeType": "application/pdf",
-        "year": null,
-        "type": null,
         "name": "Data Mining: Concepts and Techniques",
         "id": "1nRBItBmXqhuViu9sl8bwCFubLv_z65lU",
-        "solution": null
+        "img": "https://drive.google.com/uc?id=1AZvLY2bztSshKAhwVn-jldby-6JOwhSK",
+        "author": "by Jiawei Han, Micheline Kamber and Jian Pei"
       }
     }
   ]

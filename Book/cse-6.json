@@ -3,78 +3,64 @@
     {
       "subject": "Compiler Design",
       "data": {
-        "mimeType": "application/pdf",
-        "year": null,
-        "type": null,
         "name": "Compilers: Principles, Techniques, and Tools",
         "id": "13bE9T1e2FcOsEb7volOZRw7VlnP6SfVd",
-        "solution": null
+        "img": "https://drive.google.com/uc?id=1CMHIvhXjhMcJkgwU4pIME0Q4g5yxcmvK",
+        "author": "by Alfred V. Aho, Monica S. Lam, Ravi Sethi, and Jeffrey D. Ullman"
       }
     },
     {
       "subject": "Cloud Computing",
       "data": {
-        "mimeType": "application/pdf",
-        "year": null,
-        "type": null,
         "name": "Cloud Computing: Principles and Paradigms",
         "id": "1_d-BMBHALbIQOX6T0ftcRZbYiEZ_4sci",
-        "solution": null
+        "img": "https://drive.google.com/uc?id=1e0IgTQ5V6CnU8zc8SQIFnrrfFy5YfqGL",
+        "author": "by Rajkumar Buyya, James Broberg, Andrzej Goscinski"
       }
     },
     {
       "subject": "Software Project Management",
       "data": {
-        "mimeType": "application/pdf",
-        "year": null,
-        "type": null,
         "name": "Software Project Management",
         "id": "17W6_TakD0m2tVufTzS86T5rIsT7rQtv0",
-        "solution": null
+        "img": "https://drive.google.com/uc?id=1YZUxLJ74uSTJxA6kXuZmJveOcJR68uwV",
+        "author": "by Bob Hughes and Mike Cotterell"
       }
     },
     {
       "subject": "Machine Learning",
       "data": {
-        "mimeType": "application/pdf",
-        "year": null,
-        "type": null,
         "name": "Applied Machine Learning",
         "id": "1WNVuOraimUY3g0lZncyC2goH159q0UJA",
-        "solution": null
+        "img": "https://drive.google.com/uc?id=1NAkYv4mUoTF32dw2St0PGkpUW_sBtZOR",
+        "author": "by M. Gopal"
       }
     },
     {
       "subject": "Natural Language Processing",
       "data": {
-        "mimeType": "application/pdf",
-        "year": null,
-        "type": null,
         "name": "Foundations of Statistical Natural Language ProcessingSpeech and Language Processing",
         "id": "1wDguJIHvm_JCNoZVwMt4HZP-0MpE4Rv6",
-        "solution": null
+        "img": "https://drive.google.com/uc?id=11X7kTm2GFCjgcYiiACeW55RhYHgnxW0c",
+        "author": "by Chris Manning and Hinrich Schützeby Daniel Jurafsky and James H. Martin"
       }
     },
     {
       "subject": "Data Analytics",
       "data": {
-        "mimeType": "application/pdf",
-        "year": null,
-        "type": null,
         "name": "Mastering Social Media Mining with Python",
         "id": "1zpORybGu5MtmGsq4dB5SBhnbgilTVpDE",
-        "solution": null
+        "img": "https://drive.google.com/uc?id=1XRAelx0JnW5d0IeYWEk6AThqgub8sol3",
+        "author": "by Marco Bonzanini"
       }
     },
     {
       "subject": "Internet of Things",
       "data": {
-        "mimeType": "application/pdf",
-        "year": null,
-        "type": null,
         "name": "Internet of Things: A Hands-on Approach",
         "id": "13MgsyH3rWokNaL3VyQnzZ4QzpXsSAymH",
-        "solution": null
+        "img": "https://drive.google.com/uc?id=135USlEhAUlZmwNhmqMObcABlS1yR7x9F",
+        "author": "by Arshdeep Bahga and Vijay K. Madisetti"
       }
     }
   ]

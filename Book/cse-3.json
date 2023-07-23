@@ -3,67 +3,46 @@
     {
       "subject": "Data Structures and Algorithms",
       "data": {
-        "mimeType": "application/pdf",
-        "year": null,
-        "type": null,
         "name": "Data Structures and Algorithms Made Easy : Data Structure and Algorithmic Puzzles",
         "id": "12YljTBX1zJVvGEjDXZrFpH883saIsShq",
-        "solution": null
+        "img": "https://drive.google.com/uc?id=1TJrtdh7ofNE7y89KTLy-3sp216J7W6-o",
+        "author": "by Narasimha Karumanchi"
       }
     },
     {
       "subject": "Digital Electronics",
       "data": {
-        "mimeType": "application/pdf",
-        "year": null,
-        "type": null,
         "name": "Fundamentals of Digital Circuits",
         "id": "19jbMSjww2X-RDAbkXiWYlibdfULNNV67",
-        "solution": null
+        "img": "https://drive.google.com/uc?id=16qjspqyGkPw8VWC7P0kYUmJVRvuY9v2f",
+        "author": "by A. Anand Kumar"
       }
     },
     {
       "subject": "Discrete Mathematics",
       "data": {
-        "mimeType": "application/pdf",
-        "year": null,
-        "type": null,
         "name": "Discrete Mathematics and Its Applications",
         "id": "1cfOFhAeXaUMJEwUcxK0D2yXMfOiTwWKO",
-        "solution": null
+        "img": "https://drive.google.com/uc?id=1DOaoC0JQzHwDLvuGRHH7N9NnwwNbRvp7",
+        "author": "by Kenneth H. Rosen"
       }
     },
     {
       "subject": "Object Oriented Programming",
       "data": {
-        "mimeType": "application/pdf",
-        "year": null,
-        "type": null,
         "name": "Object-Oriented Programming with C++",
         "id": "18PkgKcUvO9MEkX6n6PTgyk4Vn2e9LGu4",
-        "solution": null
+        "img": "https://drive.google.com/uc?id=1tvNVigKLec4gTxf-DJv5TzWrdoLXT-pf",
+        "author": "by E. Balagurusamy"
       }
     },
     {
       "subject": "Probability and Statistics",
       "data": {
-        "mimeType": "application/pdf",
-        "year": null,
-        "type": null,
         "name": "Probability and Statistics for Engineering and the Sciences",
         "id": "19ET32hi9wnTBnCWFq1ALERjXvZNAoFyy",
-        "solution": null
-      }
-    },
-    {
-      "subject": "Engineering Economics",
-      "data": {
-        "mimeType": "application/pdf",
-        "year": null,
-        "type": null,
-        "name": "",
-        "id": "/app/contribute/CSE/3",
-        "solution": null
+        "img": "https://drive.google.com/uc?id=1_RhYQzVJ-RusLvpgwcoXE_M7RVPcNQHf",
+        "author": "by Jay L. Devore"
       }
     }
   ]

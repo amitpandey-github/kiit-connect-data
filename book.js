@@ -27,17 +27,22 @@ app.get("/get",async(req,res)=>{
         const element = subject[index];
 
     const title = $(element).find("div").first().text();
+    
+   
+      const img = $(element).find("img").attr();
+      console.log(img);
+  
     const heading = $(element).find(".card-title");
+    if(heading.text().length<1) continue;
+    const author = $(element).find(".card-text");
     const link = $(element).find("a");
     const finalLink = link.attr().href.replace("/app/view/","");
 
     const data = {
-        "mimeType": "application/pdf",
-        "year":null,
-        "type":null,
         "name":heading.text(),
         "id":link.attr().href.replace("/app/view/",""),
-        "solution":null, 
+        "img":img?img.src:null,
+        "author":author.text()
           
     }
 

@@ -3,12 +3,10 @@
     {
       "subject": "Cloud Computing",
       "data": {
-        "mimeType": "application/pdf",
-        "year": null,
-        "type": null,
         "name": "Cloud Computing: Principles and Paradigms",
         "id": "1_d-BMBHALbIQOX6T0ftcRZbYiEZ_4sci",
-        "solution": null
+        "img": "https://drive.google.com/uc?id=1e0IgTQ5V6CnU8zc8SQIFnrrfFy5YfqGL",
+        "author": "by Rajkumar Buyya, James Broberg, Andrzej Goscinski"
       }
     }
   ]
