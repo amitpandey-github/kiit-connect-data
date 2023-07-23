@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "subject": "Mathematics Part One",
+      "data": {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Advanced Engineering Mathematics",
+        "id": "1fFq5jf9kxMn1t713vfYrwmUfJ1mmjlg5",
+        "solution": null
+      }
+    },
+    {
+      "subject": "Physics",
+      "data": {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Engineering Physics",
+        "id": "1ZrUCZyGD9OAll5yRh15VBFIj3OsMhAw7",
+        "solution": null
+      }
+    },
+    {
+      "subject": "Basic Electrical Engineering",
+      "data": {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Basic Electrical Engineering",
+        "id": "1PshoP-aEKQlmUyXvm3NEfIg0XdbN--AP",
+        "solution": null
+      }
+    },
+    {
+      "subject": "Analog Electronic Circuits",
+      "data": {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Electronic Devices and Circuit Theory",
+        "id": "1duRiBfPEOpMtOjcRolbr9a4wG8voAttY",
+        "solution": null
+      }
+    },
+    {
+      "subject": "Basic Manufacturing Systems",
+      "data": {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Introduction To Basic Manufacturing Process & Workshop Technology",
+        "id": "13IkB64l3U_OKBa0EN34fqQOoMyAkrMpa",
+        "solution": null
+      }
+    },
+    {
+      "subject": "Environmental Science",
+      "data": {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "",
+        "id": "/app/contribute/CSCE/1",
+        "solution": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+[
+  {
+    "First": [
+      {
+        "name": "Compiler Design",
+        "pyqs": [
+          {
+            "mimeType": "application/pdf",
+            "year": null,
+            "type": null,
+            "name": "Compiler Design Notes 1",
+            "id": "1WC5ri65-tHyCPgnEsiW5RMKLUn2O2Mbh",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": null,
+            "type": null,
+            "name": "Compiler Design Notes 2",
+            "id": "1j7Ppr5z4sT3HwBuCIQLRrKF2WNdfGUac",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": null,
+            "type": null,
+            "name": "Compiler Design Notes 3",
+            "id": "1AiBQU78LpSjjeEHk6NyQZKo0ujUuxTyq",
+            "solution": null
+          }
+        ]
+      },
+      {
+        "name": "Cloud Computing",
+        "pyqs": [
+          {
+            "mimeType": "application/pdf",
+            "year": null,
+            "type": null,
+            "name": "Cloud Computing Slides 1",
+            "id": "1Fh0z9cQHwiux3KWf77b96SRX5ZsfAHJm",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": null,
+            "type": null,
+            "name": "Cloud Computing Slides 2",
+            "id": "1Nbxce2VxpuaJUS4cmZUS_estXgBSTeEP",
+            "solution": null
+          }
+        ]
+      },
+      {
+        "name": "Software Project Management",
+        "pyqs": [
+          {
+            "mimeType": "application/pdf",
+            "year": null,
+            "type": null,
+            "name": "Software Project Management Slides 1",
+            "id": "1wKMxxWjW_aaWT9-LVFwv2R_Oycwnq2eN",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": null,
+            "type": null,
+            "name": "Software Project Management Slides 2",
+            "id": "11-JrFnW2yPc8qCcN4zfDd-gX0dirLUyW",
+            "solution": null
+          }
+        ]
+      },
+      {
+        "name": "Machine Learning",
+        "pyqs": [
+          {
+            "mimeType": "application/pdf",
+            "year": null,
+            "type": null,
+            "name": "Machine Learning Notes",
+            "id": "1h0Q4K4HE7zTgiJyPQPo2ymNGLwHFJsSY",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": null,
+            "type": null,
+            "name": "Machine Learning Slides",
+            "id": "1X2_zLGHdyGX8DrAGfqcVHbR38KUNr0Kg",
+            "solution": null
+          }
+        ]
+      },
+      {
+        "name": "Natural Language Processing",
+        "pyqs": [
+          {
+            "mimeType": "application/pdf",
+            "year": null,
+            "type": null,
+            "name": "Natural Language Processing Slides",
+            "id": "1EQDa0dqQlEnTplqeZ6_Mu7Gbv-jxprOu",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": null,
+            "type": null,
+            "name": "Natural Language Processing Notes",
+            "id": "1GyU30KCNnT7MWpI4BIQycGR8nzDEr9hV",
+            "solution": null
+          }
+        ]
+      },
+      {
+        "name": "Data Analytics",
+        "pyqs": [
+          {
+            "mimeType": "application/pdf",
+            "year": null,
+            "type": null,
+            "name": "Data Analytics Slides",
+            "id": "1d1oKihQmwrSwJeBufijF1ucs3hcKXY5H",
+            "solution": null
+          }
+        ]
+      },
+      {
+        "name": "Internet of Things",
+        "pyqs": [
+          {
+            "mimeType": "application/pdf",
+            "year": null,
+            "type": null,
+            "name": "Internet of Things Notes",
+            "id": "1hPp6RN1Ipf0ZTDKQwsbB1MhrCEAaNiUz",
+            "solution": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "subject": "Data Structures and Algorithms",
+      "data": {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Data Structures and Algorithms Made Easy : Data Structure and Algorithmic Puzzles",
+        "id": "12YljTBX1zJVvGEjDXZrFpH883saIsShq",
+        "solution": null
+      }
+    },
+    {
+      "subject": "Principle of Digital Communication",
+      "data": {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Communication Systems",
+        "id": "1zfBYTwmK-RDL3up6lFuZVCX787Xc5HGo",
+        "solution": null
+      }
+    },
+    {
+      "subject": "Discrete Mathematics",
+      "data": {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Discrete Mathematics and Its Applications",
+        "id": "1cfOFhAeXaUMJEwUcxK0D2yXMfOiTwWKO",
+        "solution": null
+      }
+    },
+    {
+      "subject": "Object Oriented Programming",
+      "data": {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Object-Oriented Programming with C++",
+        "id": "18PkgKcUvO9MEkX6n6PTgyk4Vn2e9LGu4",
+        "solution": null
+      }
+    },
+    {
+      "subject": "Probability and Statistics",
+      "data": {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Probability and Statistics for Engineering and the Sciences",
+        "id": "19ET32hi9wnTBnCWFq1ALERjXvZNAoFyy",
+        "solution": null
+      }
+    }
+  ]
+}

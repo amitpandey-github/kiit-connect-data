@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "subject": "Data Analytics",
+      "data": {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Mastering Social Media Mining with Python",
+        "id": "1zpORybGu5MtmGsq4dB5SBhnbgilTVpDE",
+        "solution": null
+      }
+    },
+    {
+      "subject": "Artificial Intelligence",
+      "data": {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Artificial Intelligence: A Modern Approach",
+        "id": "1iPCfuk-srHgiliKWqJBi3B0CQaKiQZ93",
+        "solution": null
+      }
+    },
+    {
+      "subject": "Machine Learning",
+      "data": {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Applied Machine Learning",
+        "id": "1WNVuOraimUY3g0lZncyC2goH159q0UJA",
+        "solution": null
+      }
+    },
+    {
+      "subject": "Mobile Computing",
+      "data": {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Fundamentals of Mobile Computing",
+        "id": "1jJwdkKBDfdNgg-lLftnom4uTOMQ6xpD6",
+        "solution": null
+      }
+    },
+    {
+      "subject": "Object Oriented System Design",
+      "data": {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Object oriented systems development",
+        "id": "10l4FwRne8GMoRlIKqtbhpndH6fIq0mPt",
+        "solution": null
+      }
+    }
+  ]
+}

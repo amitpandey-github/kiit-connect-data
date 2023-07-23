@@ -1,0 +1,87 @@
+[
+  {
+    "First": [
+      {
+        "name": "Data Structures and Algorithms",
+        "pyqs": [
+          {
+            "mimeType": "application/pdf",
+            "year": null,
+            "type": null,
+            "name": "Data Structures and Algorithms Notes",
+            "id": "1KMDjN4vouRLyPAwyr9088Ewoxg4V26BI",
+            "solution": null
+          }
+        ]
+      },
+      {
+        "name": "Principle of Digital Communication",
+        "pyqs": [
+          {
+            "mimeType": "application/pdf",
+            "year": null,
+            "type": null,
+            "name": "Principal of Digital Communication Notes 1",
+            "id": "1HyWnd4pJ2TtSr7FNZ11iXAqIuMwQ0zVp",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": null,
+            "type": null,
+            "name": "Principal of Digital Communication Notes 2",
+            "id": "1EeRNNCWDB1VyBedr_Zzb_6TiRh1OFPkx",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": null,
+            "type": null,
+            "name": "Principal of Digital Communication Notes 3",
+            "id": "1Mbo9y2Fcq7cbQryRGqgQ9EXcGe3h2Agi",
+            "solution": null
+          }
+        ]
+      },
+      {
+        "name": "Discrete Mathematics",
+        "pyqs": [
+          {
+            "mimeType": "application/pdf",
+            "year": null,
+            "type": null,
+            "name": "Discrete Mathematics",
+            "id": "17JCnAncpfaSHqi-_H3pKpxURo0Pegp-P",
+            "solution": null
+          }
+        ]
+      },
+      {
+        "name": "Object Oriented Programming",
+        "pyqs": [
+          {
+            "mimeType": "application/pdf",
+            "year": null,
+            "type": null,
+            "name": "Object Oriented Programming Slides",
+            "id": "1fXekL6BVMBr--H4r6AdMwLqmgcYaPC1l",
+            "solution": null
+          }
+        ]
+      },
+      {
+        "name": "Probability and Statistics",
+        "pyqs": [
+          {
+            "mimeType": "application/pdf",
+            "year": null,
+            "type": null,
+            "name": "Probability and Statistics Notes",
+            "id": "1dKee4g06ImQntGhoaJKIFTl9jNYCwRqr",
+            "solution": null
+          }
+        ]
+      }
+    ]
+  }
+]

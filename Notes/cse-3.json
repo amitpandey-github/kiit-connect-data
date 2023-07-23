@@ -1,0 +1,84 @@
+[
+  {
+    "First": [
+      {
+        "name": "Data Structures and Algorithms",
+        "pyqs": [
+          {
+            "mimeType": "application/pdf",
+            "year": null,
+            "type": null,
+            "name": "Data Structures and Algorithms Notes",
+            "id": "1KMDjN4vouRLyPAwyr9088Ewoxg4V26BI",
+            "solution": null
+          }
+        ]
+      },
+      {
+        "name": "Digital Electronics",
+        "pyqs": [
+          {
+            "mimeType": "application/pdf",
+            "year": null,
+            "type": null,
+            "name": "Digital Electronics Notes",
+            "id": "19GMCy9CzLXGDtFzuIVvqVDgXm6tW-zvS",
+            "solution": null
+          }
+        ]
+      },
+      {
+        "name": "Discrete Mathematics",
+        "pyqs": [
+          {
+            "mimeType": "application/pdf",
+            "year": null,
+            "type": null,
+            "name": "Discrete Mathematics",
+            "id": "17JCnAncpfaSHqi-_H3pKpxURo0Pegp-P",
+            "solution": null
+          }
+        ]
+      },
+      {
+        "name": "Object Oriented Programming",
+        "pyqs": [
+          {
+            "mimeType": "application/pdf",
+            "year": null,
+            "type": null,
+            "name": "Object Oriented Programming Slides",
+            "id": "1fXekL6BVMBr--H4r6AdMwLqmgcYaPC1l",
+            "solution": null
+          }
+        ]
+      },
+      {
+        "name": "Probability and Statistics",
+        "pyqs": [
+          {
+            "mimeType": "application/pdf",
+            "year": null,
+            "type": null,
+            "name": "Probability and Statistics Notes",
+            "id": "1dKee4g06ImQntGhoaJKIFTl9jNYCwRqr",
+            "solution": null
+          }
+        ]
+      },
+      {
+        "name": "Engineering Economics",
+        "pyqs": [
+          {
+            "mimeType": "application/pdf",
+            "year": null,
+            "type": null,
+            "name": "Engineering Economics Notes",
+            "id": "1I76Dn4joZ2QJTw_Hbe7232kovnFq1lxq",
+            "solution": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "subject": "Software Engineering",
+      "data": {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Fundamentals of Software Engineering",
+        "id": "1Fpy3YWDXLI41eT7Ve08Rm3EVewooYoA5",
+        "solution": null
+      }
+    },
+    {
+      "subject": "Computer Networking",
+      "data": {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Computer Networks: A Top-down Approach",
+        "id": "1z1Mm63zHf3tSXbNlzeaU94_Zc5_eGtlY",
+        "solution": null
+      }
+    },
+    {
+      "subject": "Design and Analysis of Algorithms",
+      "data": {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Introduction to AlgorithmsFundamentals of Computer Algorithms",
+        "id": "1VyxfINclRY5GXDd__GA8NAW8HJGRJx8J",
+        "solution": null
+      }
+    },
+    {
+      "subject": "Database Management Systems",
+      "data": {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Fundamentals of Database Systems",
+        "id": "1FJ0yrYmn_cmCoSSt-Dr-wLE4g_ZhgNwP",
+        "solution": null
+      }
+    },
+    {
+      "subject": "Artificial Intelligence",
+      "data": {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Artificial Intelligence: A Modern Approach",
+        "id": "1iPCfuk-srHgiliKWqJBi3B0CQaKiQZ93",
+        "solution": null
+      }
+    },
+    {
+      "subject": "Cryptography",
+      "data": {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Introduction to Cryptography and Network Security",
+        "id": "1ZxG9G_IbWlh-1TDlu2Ezix91py_sqEHK",
+        "solution": null
+      }
+    }
+  ]
+}

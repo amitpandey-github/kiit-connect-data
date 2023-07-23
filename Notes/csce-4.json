@@ -1,0 +1,135 @@
+[
+  {
+    "First": [
+      {
+        "name": "Operating Systems",
+        "pyqs": [
+          {
+            "mimeType": "application/pdf",
+            "year": null,
+            "type": null,
+            "name": "Operating Systems Notes 1",
+            "id": "1vWCjjKOSvWzS2rRK-ZJSLfG_36QLHTFc",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": null,
+            "type": null,
+            "name": "Operating Systems Notes 2",
+            "id": "1xqKKBZWof3XxpFxpt6NkKniPS1C3YEJ-",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": null,
+            "type": null,
+            "name": "Operating Systems Notes 3",
+            "id": "1yR4caIysSH5caTQdUxbOyxLDG_2NNGxw",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": null,
+            "type": null,
+            "name": "Operating Systems Notes 4",
+            "id": "1rMNQEuEMS7Q7VAkVbW2a8F9zN2gxgE7C",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": null,
+            "type": null,
+            "name": "Operating Systems Slides",
+            "id": "1MlXdQaPC6bey6tbVUAIcNXd0gCEdsvGX",
+            "solution": null
+          }
+        ]
+      },
+      {
+        "name": "Automata and Formal Languages",
+        "pyqs": [
+          {
+            "mimeType": "application/pdf",
+            "year": null,
+            "type": null,
+            "name": "Automata and Formal Languages Notes 1",
+            "id": "1FO-YY-VulKriznnSAWQxfZXgC0AmVhGC",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": null,
+            "type": null,
+            "name": "Automata and Formal Languages Notes 2",
+            "id": "1SjdwF5rqI2Ywax2TKaBDnouYaDl7gQeq",
+            "solution": null
+          }
+        ]
+      },
+      {
+        "name": "Web Technology",
+        "pyqs": [
+          {
+            "mimeType": "application/pdf",
+            "year": null,
+            "type": null,
+            "name": "HTML Slides",
+            "id": "1ogvUituYholhPqicqO5XWHeAALotG3Vs",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": null,
+            "type": null,
+            "name": "Java Slides",
+            "id": "1iG0k6FblMYHOzjovjCMktsz7QL8uJoVw",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": null,
+            "type": null,
+            "name": "JDBC Slides",
+            "id": "1AHHHKwoS-fqBX4SMItE5HnFaHT82_u1k",
+            "solution": null
+          }
+        ]
+      },
+      {
+        "name": "Computer Architecture",
+        "pyqs": [
+          {
+            "mimeType": "application/pdf",
+            "year": null,
+            "type": null,
+            "name": "Computer Architecture Notes 1",
+            "id": "18GfdxjUWhetaegg5fKg8SivPZKUh6DU8",
+            "solution": null
+          },
+          {
+            "mimeType": "application/pdf",
+            "year": null,
+            "type": null,
+            "name": "Computer Architecture Notes 2",
+            "id": "1RCcRqHzcDll_5zQXllyfycRq-G5gQD6C",
+            "solution": null
+          }
+        ]
+      },
+      {
+        "name": "Discrete Mathematics",
+        "pyqs": [
+          {
+            "mimeType": "application/pdf",
+            "year": null,
+            "type": null,
+            "name": "Discrete Mathematics",
+            "id": "17JCnAncpfaSHqi-_H3pKpxURo0Pegp-P",
+            "solution": null
+          }
+        ]
+      }
+    ]
+  }
+]

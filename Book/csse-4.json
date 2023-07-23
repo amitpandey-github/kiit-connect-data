@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "subject": "Operating Systems",
+      "data": {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Operating Systems Concepts",
+        "id": "1H4EZ5KUHcE491nhLva4N4BzIpRHF-Ciu",
+        "solution": null
+      }
+    },
+    {
+      "subject": "Design and Analysis of Algorithms",
+      "data": {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Introduction to AlgorithmsFundamentals of Computer Algorithms",
+        "id": "1VyxfINclRY5GXDd__GA8NAW8HJGRJx8J",
+        "solution": null
+      }
+    },
+    {
+      "subject": "Database Management Systems",
+      "data": {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Fundamentals of Database Systems",
+        "id": "1FJ0yrYmn_cmCoSSt-Dr-wLE4g_ZhgNwP",
+        "solution": null
+      }
+    },
+    {
+      "subject": "Computer Architecture",
+      "data": {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Computer Organization and Embedded Systems",
+        "id": "1FY9eLRMEOfYY2uZ3Pp6Nin-Pv5tKOprv",
+        "solution": null
+      }
+    },
+    {
+      "subject": "Probability and Statistics",
+      "data": {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "Probability and Statistics for Engineering and the Sciences",
+        "id": "19ET32hi9wnTBnCWFq1ALERjXvZNAoFyy",
+        "solution": null
+      }
+    }
+  ]
+}

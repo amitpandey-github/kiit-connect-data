@@ -12,10 +12,6 @@ app.use(express.json());
 
 
 
-
-
-
-
 app.get("/get",async(req,res)=>{
 
     const url = req.body.url;
@@ -36,7 +32,6 @@ app.get("/get",async(req,res)=>{
     const finalLink = link.attr().href.replace("/app/view/","");
 
     const data = {
-        
         "mimeType": "application/pdf",
         "year":null,
         "type":null,
@@ -56,11 +51,14 @@ app.get("/get",async(req,res)=>{
   res.json(subjectList);
 
 
+  const book = {
+    data:subjectList
+  }
 
-  const jsonData = JSON.stringify(subjectList, null, 2);
+  const jsonData = JSON.stringify(book, null, 2);
   
   // Replace 'papers.json' with the desired file name and path
-  fs.writeFile(req.body.sem, jsonData, 'utf8', (err) => {
+  fs.writeFile(`./Book/${req.body.sem}`, jsonData, 'utf8', (err) => {
     if (err) {
       console.error('Error writing JSON file:', err);
     } else {
