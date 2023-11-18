@@ -76,13 +76,29 @@
             "id": "1F345eLqpv_5InPo1ZyQWDD90LSN7bscI",
             "solution": null
           },
+           {
+            "mimeType": "application/pdf",
+            "year": "2020",
+            "type": "End Semester",
+            "name": "Autumn End Sem",
+            "id": "1N8ZRC0OvDHgXAogXK5FPMfyb-08U5n3b",
+            "solution": "1N8ZRC0OvDHgXAogXK5FPMfyb-08U5n3b"
+          },
+           {
+            "mimeType": "application/pdf",
+            "year": "2019",
+            "type": "End Semester",
+            "name": "Spring End Sem Exam",
+            "id": "15p_fa24bxtIBMMQXufY91ebFGpHz_9kx",
+            "solution": "15p_fa24bxtIBMMQXufY91ebFGpHz_9kx"
+          },
           {
             "mimeType": "application/pdf",
             "year": "2018",
             "type": "End Semester",
             "name": "Spring End Sem Exam",
             "id": "1y4lGsGNbu8-qCOkMaSDsN0PEQnmSfF8d",
-            "solution": null
+            "solution": "1r8HgA62iJXVUgj9T-_uBGLnsrUb2ggKK"
           },
           {
             "mimeType": "application/pdf",
@@ -106,7 +122,7 @@
             "type": "End Semester",
             "name": "Autumn End Sem Exam",
             "id": "1fzm8lE0tGxCJvqC_wjLn15gY8H8pXhU-",
-            "solution": null
+            "solution": "d/1AJ1B6e0jFrToAXc79V0kO-pX0ng7CMK_"
           },
           {
             "mimeType": "application/pdf",
@@ -397,6 +413,16 @@
             "name": "Autumn End Sem Exam",
             "id": "1FX0zfhMaYo2wTxh-sp0SS4okTul6QyY_",
             "solution": "1OAVK-Ds_rSGsnBGoTLPw1Ghpu1QHAwpD"
+          },
+
+          
+          {
+            "mimeType": "application/pdf",
+            "year": "2019",
+            "type": "End Semester",
+            "name": "Autumn End Sem Exam",
+            "id": "1WmmpSWmyTRBK1F1KVuTVTHcqz0SX3lfC",
+            "solution": "1WmmpSWmyTRBK1F1KVuTVTHcqz0SX3lfC"
           },
           {
             "mimeType": "application/pdf",
