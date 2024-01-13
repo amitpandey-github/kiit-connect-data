@@ -47,7 +47,7 @@
         ]
       },
       {
-        "name": "Automata and Formal Languages",
+        "name": "Automata and Formal Languages (NOT INCLUDED)",
         "pyqs": [
           {
             "mimeType": "application/pdf",
@@ -68,7 +68,7 @@
         ]
       },
       {
-        "name": "Web Technology",
+        "name": "OOP JAVA",
         "pyqs": [
           {
             "mimeType": "application/pdf",
@@ -93,7 +93,142 @@
             "name": "JDBC Slides",
             "id": "1AHHHKwoS-fqBX4SMItE5HnFaHT82_u1k",
             "solution": null
-          }
+          },{
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "WT 17.pdf",
+        "id": "1AKuClshuAKm5CKPglfYvBi8LSzLoH6o6",
+        "solution": null
+    },
+    {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "WT 16.pdf",
+        "id": "1TxfS1cpIGRu4N0PJDWQuzGCaOi8Nsl3P",
+        "solution": null
+    },
+    {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "WT 15.pdf",
+        "id": "10VsPpHBV-CTmNkU5kFZ6X2inTcTm35Ao",
+        "solution": null
+    },
+    {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "WT 14.pdf",
+        "id": "1Clbm_-lWAufgD_oIiyntK_EhHpbrInav",
+        "solution": null
+    },
+    {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "WT 13.pdf",
+        "id": "1GvqM-ERfZavnmayzUCfGPa2DlTslIxX0",
+        "solution": null
+    },
+    {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "WT 12.pdf",
+        "id": "1FmoA_1xVT0Uwz38hVluZTfheHxJVnWXL",
+        "solution": null
+    },
+    {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "WT 11.pdf",
+        "id": "1TDByfvMVeayRdttdz00zopS95fECOwtH",
+        "solution": null
+    },
+    {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "WT 10.pdf",
+        "id": "1MhBx6UlKA03_ML0ZhWMqI74BkKfF9TZY",
+        "solution": null
+    },
+    {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "WT 9.pdf",
+        "id": "1Nyk97kSzcoUtbOKOuyRu4jtiM2SPgv_y",
+        "solution": null
+    },
+    {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "WT 8.pdf",
+        "id": "1rcQ_oCTtjUgslfMqSR1EggJ-XUhpXwDI",
+        "solution": null
+    },
+    {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "WT 7.pdf",
+        "id": "1awnFw1BZWTZaIdJ5LovuzrioDyeUR83m",
+        "solution": null
+    },
+    {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "WT 6.pdf",
+        "id": "1n9ZTvNyjdtAUdkrMBCI8t8fsDt9N3zSk",
+        "solution": null
+    },
+    {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "WT 5.pdf",
+        "id": "1ottlWxdM78LFo_ZUDzCHaXdx7WvfKDND",
+        "solution": null
+    },
+    {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "WT 4.pdf",
+        "id": "1UaPR5EPRv-17ASHjkgl1QDmSsufBkXve",
+        "solution": null
+    },
+    {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "WT 3.pdf",
+        "id": "1NkFRPgGBCLfEODO9-vAdMs8uP6J10J78",
+        "solution": null
+    },
+    {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "WT 2.pdf",
+        "id": "1ufstdy8IseYz0ex8ci0di1DkFRvfJVFV",
+        "solution": null
+    },
+    {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "WT 1.pdf",
+        "id": "1k29FcbX6fq-d4_lnK-3QnCT4RKBGw3Af",
+        "solution": null
+    }
         ]
       },
       {
@@ -146,11 +281,123 @@
             "name": "SQL and PL/SQL Slides",
             "id": "1qPpFZ9AYC9Rgb1DKGN3m9uW2XO_zx9s8",
             "solution": null
-          }
+          },
+           {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "DBMS 5.pdf",
+        "id": "1Yg6gNdn6Cj5XYPw5SY9Y1tFJvXhzlmHB",
+        "solution": null
+    },
+    {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "DBMS 6.pdf",
+        "id": "1l8APMTmyaArS85wMJQ84Ay0JbYi55oYR",
+        "solution": null
+    },
+    {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "DBMS 3.pdf",
+        "id": "1Wlg87EvnqgrItxaTZerHrhNIojdZEIQ8",
+        "solution": null
+    },
+    {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "DBMS 4.pdf",
+        "id": "10agZ6beM4GWzFsYy12NI_1dekCUSHR5K",
+        "solution": null
+    },
+    {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "DBMS 7.pdf",
+        "id": "1grHGjoUlTZ4GnyX5lpGwr0TTWj6G6-_N",
+        "solution": null
+    },
+    {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "DBMS 12.pdf",
+        "id": "1ZimZwBvBXKxLb2vqgF2EP_8Z72C1bUMt",
+        "solution": null
+    },
+    {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "DBMS 8.pdf",
+        "id": "16-mmygDMvVzCEBRfNCfxFak5jB8hJx32",
+        "solution": null
+    },
+    {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "DBMS 9.pdf",
+        "id": "12YjAHqjYaEpWLPpe45lMfOY5KSqTcx0X",
+        "solution": null
+    },
+    {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "DBMS 10.pdf",
+        "id": "1AOFuFh8niJuw0LzbB3rcOvlIfAkHxTeB",
+        "solution": null
+    },
+    {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "DBMS 11.pdf",
+        "id": "1Ebj3ybvgfOyqv45xrJo7W-4FfA-nr4jp",
+        "solution": null
+    },
+    {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "DBMS 13.pdf",
+        "id": "1HJmWy1fbcueEB3_AqetDHRLOJoiU8JiZ",
+        "solution": null
+    },
+    {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "DBMS 14.pdf",
+        "id": "1GQXhO9PiyNHC59aF0Jq-NvqDfK7wQasP",
+        "solution": null
+    },
+    {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "DBMS 2.pdf",
+        "id": "1pXO6rNj_lAYfsAMmKmFinSC1KB6Q5N1h",
+        "solution": null
+    },
+    {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "DBMS 1. Introduction.pdf",
+        "id": "1pzEWGHQE8hFzev_MSCbyzAvCZXkJrX_V",
+        "solution": null
+    }
         ]
       },
       {
-        "name": "Computer Architecture",
+        "name": "Computer Organization & Architecture",
         "pyqs": [
           {
             "mimeType": "application/pdf",
@@ -167,11 +414,115 @@
             "name": "Computer Architecture Notes 2",
             "id": "1RCcRqHzcDll_5zQXllyfycRq-G5gQD6C",
             "solution": null
-          }
+          },
+          {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "8_1 COA Addressing mode updated.pdf",
+        "id": "1ySlepKInezQxoHANjlSn0wGCWFPXxAtk",
+        "solution": null
+    },
+    {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "5 COA Memory Operations (1).pdf",
+        "id": "13c09Bk6pmCqVgZEcsX7TsjHWVlEdMchX",
+        "solution": null
+    },
+    {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "8 COA Addressing Modes.pdf",
+        "id": "1czGDv3WFaCCXHo48KzAQCOng0KvtqrbC",
+        "solution": null
+    },
+    {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "7 COA Instruction Sequencing.pdf",
+        "id": "1rtl_LRbnhz8Fy8kmyEAYW57lH1T6OeJk",
+        "solution": null
+    },
+    {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "5_1 COA Number Representation.pdf",
+        "id": "1Pfm5zGiNnhLEpn9bIGzX_vD_3xlfWlPO",
+        "solution": null
+    },
+    {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "5 COA Memory Operations.pdf",
+        "id": "16jNPWVX-WC5wIID4Y9oLZ4SwNOY9cNqm",
+        "solution": null
+    },
+    {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "4 COA Performance.pdf",
+        "id": "157xMrcXTyJ1G_Ug3lQQdlxWIDJ3Irfgb",
+        "solution": null
+    },
+    {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "3 COA Bus Structure.pdf",
+        "id": "1f_gMPEjjM0mM-4twYKIBdPy_uvoUmSL1",
+        "solution": null
+    },
+    {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "2 COA Basic Operational Concept.pdf",
+        "id": "1WCYkfTXyhyORaOSV5MsUG8kcfKIWKqlP",
+        "solution": null
+    },
+    {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "1 COA Introduction.pdf",
+        "id": "1j2dLEMtBpG__YzgYKZjr1Jf28Y-GE14-",
+        "solution": null
+    },
+    {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "COA_UNIT-3.pdf",
+        "id": "1u3U7JegRAWzNtePn84YcKSsL9lNPKTiw",
+        "solution": null
+    },
+    {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "COA_UNIT-2.pdf",
+        "id": "1cAHj5wMqgcNIk1TTYD7rwVfKt6qFS8pa",
+        "solution": null
+    },
+    {
+        "mimeType": "application/pdf",
+        "year": null,
+        "type": null,
+        "name": "COA_UNIT-1.pdf",
+        "id": "1jYVWvuBueO2d0zQ0njK8TndnIU5m8u7E",
+        "solution": null
+    }
         ]
       },
       {
-        "name": "Principle of Digital Communication",
+        "name": "Principle of Digital Communication (NOT INCLUDED)",
         "pyqs": [
           {
             "mimeType": "application/pdf",
