@@ -2,7 +2,7 @@
   {
     "First": [
       {
-        "name": "Data Structures and Algorithms",
+        "name": "Data Structures",
         "pyqs": [
           {
             "mimeType": "application/pdf",
@@ -159,7 +159,7 @@
         ]
       },
       {
-        "name": "Digital Electronics",
+        "name": "Digital System Design",
         "pyqs": [
           {
             "mimeType": "application/pdf",
