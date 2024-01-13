@@ -135,7 +135,7 @@
         ]
       },
       {
-        "name": "Automata and Formal Languages",
+        "name": "Automata and Formal Languages(NOT Included)",
         "pyqs": [
           {
             "mimeType": "application/pdf",
@@ -204,7 +204,7 @@
         ]
       },
       {
-        "name": "Web Technology",
+        "name": "OOPJ",
         "pyqs": [
           {
             "mimeType": "application/pdf",
@@ -289,7 +289,7 @@
         ]
       },
       {
-        "name": "Computer Architecture",
+        "name": "Computer Organization & Architecture(NOT INCLUDED)",
         "pyqs": [
           {
             "mimeType": "application/pdf",
@@ -430,7 +430,89 @@
         ]
       },
       {
-        "name": "Discrete Mathematics",
+        "name":"Information Security(NEW)",
+        "pyqs":[]
+  
+      },
+      {
+            "name": "Engineering Economics",
+            "pyqs": [
+              {
+                "mimeType": "application/pdf",
+                "year": "2019",
+                "type": "Mid Semester",
+                "name": "Spring Mid Sem Exam",
+                "id": "1hFIQ6TC4Ew1yQT4lbn2iqsAfR3bCx1YX",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2019",
+                "type": "Mid Semester",
+                "name": "Autumn Mid Sem Exam",
+                "id": "177PdKYg7x4C_xuC17ZfwMx7-TVHn031l",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2019",
+                "type": "Mid Semester",
+                "name": "Mid Sem Exam",
+                "id": "1LeS1clos_Fs7OSD2LcBlsHTJ-qgMsxlr",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2018",
+                "type": "Mid Semester",
+                "name": "Mid Sem Exam",
+                "id": "1JofUj7qRdiluC1SS1_jTTAHkMX6aF4D6",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2017",
+                "type": "Mid Semester",
+                "name": "Mid Sem Exam",
+                "id": "1icZUixC42opxXdTHDnZZv2PIys8hqmNv",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2014",
+                "type": "Mid Semester",
+                "name": "Mid Sem Exam",
+                "id": "1oqPNCYF6s_dTg12inaHj_JQoCLPB86fv",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2019",
+                "type": "End Semester",
+                "name": "Spring End Sem Exam",
+                "id": "1Rb3ygo1yA1hYyMVFB1CBEWOb5qbOMzrU",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2018",
+                "type": "End Semester",
+                "name": "Spring End Sem Exam",
+                "id": "1Ac65hf5WMutExsX94KHxymE7Y8YcdCTA",
+                "solution": null
+              },
+              {
+                "mimeType": "application/pdf",
+                "year": "2012",
+                "type": "End Semester",
+                "name": "End Sem Exam",
+                "id": "1qj99kUnpdy0L7ZnfmY-XJLX56zwQ9fXO",
+                "solution": null
+              }
+            ]
+          },
+      {
+        "name": "Discrete Structure(DS)",
         "pyqs": [
           {
             "mimeType": "application/pdf",
